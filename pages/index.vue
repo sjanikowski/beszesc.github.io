@@ -1,5 +1,5 @@
 <template>
-  <div class="leading-normal tracking-normal text-white gradient">
+  <div id="main" class="leading-normal tracking-normal text-white duration-400">
     <LayoutNav />
 
     <div data-aos="fade-up" class="pt-24">
@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="relative -mt-12 lg:-mt-24">
-      <svg
+      <!-- <svg
         viewBox="0 0 1428 174"
         version="1.1"
         xmlns="http://www.w3.org/2000/svg"
@@ -49,41 +49,37 @@
             ></path>
           </g>
         </g>
-      </svg>
+      </svg> -->
     </div>
-    <section id="countdown" class="bg-white border-b py-8 text-gray-900">
+    <!-- <section id="countdown" class="bg-inherit border-b py-8 text-gray-900">
       <Countdown />
-    </section>
-    <section id="about" class="bg-white border-b py-8">
-      <div class="container max-w-5xl mx-auto m-8">
+    </section> -->
+    <section id="idea" class="bg-inherit pt-16 pb-8">
+      <div class="container max-w-4xl mx-auto m-8">
         <h2
           data-aos="fade-up"
-          class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
+          class="w-full my-16 text-5xl font-bold font-['Chonburi'] leading-tight text-center text-gray-800"
         >
-          Sekcja 1
+          Idea B60
         </h2>
-        <div data-aos="fade-up" class="w-full mb-4">
+        <!-- <div data-aos="fade-up" class="w-full mb-4">
           <div
             class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
           ></div>
+        </div> -->
+        <div class="p-6 content-center">
+          <h3 class="text-[22px] text-black font-bold leading-10 mb-3 text-center">
+              60 lat temu Karol Wojtyła został arcybiskupem krakowskim, wyemitowano pierwszy odcinek Bonanzy, 
+              na Balicach lądował pierwszy samolot, The Beatles wydali swój pierwszy album, w Krakowie powstało 
+              Dominikańskie Duszpasterstwo Akademickie Beczka. 6 dekad - od takiego czasu Beczka towarzyszy 
+              życiu kolejnych pokoleń studentów i ich duszpasterzy. Niektórzy byli tu na chwilę, inni 
+              zostali na lata, kształtując siebie, ale też wpływając na kształt samej Beczki. Był to ważny 
+              czas, czas przemian, przyjaźni, budowania wartości. Z okazji okrągłego jubileuszu chcemy przeżyć 
+              ten rok, spoglądając na historie tworzących ją osób, docenić to, co Beczka przeszła i to, czym 
+              jest teraz. Świętowanie czas zacząć, nadchodzi B60.
+          </h3>
         </div>
-        <div data-aos="fade-up-right" class="flex flex-wrap">
-          <div class="w-5/6 sm:w-1/2 p-6">
-            <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
-              Lorem ipsum dolor sit amet
-            </h3>
-            <p class="text-gray-600 mb-8">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-              at ipsum eu nunc commodo posuere et sit amet ligula.
-              <br />
-              <br />
-            </p>
-          </div>
-          <div class="w-full sm:w-1/2 p-6">
-            <!-- jakies foto mozna -->
-          </div>
-        </div>
-        <div
+        <!-- <div
           data-aos="fade-up-left"
           class="flex flex-wrap flex-col-reverse sm:flex-row"
         >
@@ -99,27 +95,32 @@
               </p>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
-    <section id="customers" class="bg-white border-b py-8">
-      <div class="container mx-auto flex flex-wrap pt-4 pb-12">
-        <h2
+    <section id="zwiastun" class="py-8">
+      <div class="container mx-auto pt-4 pb-12 bg-inherit">
+        <!-- <h2
           data-aos="fade-up"
           class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
         >
-          Sekcja 2
-        </h2>
-        <div data-aos="fade-up" class="w-full mb-4">
+          Zwiastun
+        </h2> -->
+
+        <p style="display: flex; justify-content: center;">
+          <iframe width="1024" height="455" style="border-radius: 30px;" src="https://www.youtube.com/embed/Eqg9P4HlJd0?si=MjwRDxzK4IlMU3Ze&player=html5" title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </p>
+      <!-- <div data-aos="fade-up" class="w-full mb-4">
           <div
             class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
           ></div>
         </div>
         <div
           data-aos="zoom-in-down"
-          v-for="item in 3"
+          v-for="item in 4"
           :key="item"
-          class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink"
+          class="w-full md:w-1/4 p-6 flex flex-col flex-grow flex-shrink"
         >
           <div
             class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow"
@@ -148,21 +149,26 @@
               </button>
             </div>
           </div>
-        </div>
+        </div>-->
       </div>
     </section>
-    <section id="pricing" class="bg-gray-100 py-8">
-      <div class="container mx-auto px-2 pt-4 pb-12 text-gray-800">
+    <section id="program" class="py-8">
+      <div class="container max-w-4xl mx-auto m-8">
         <h2
           data-aos="fade-up"
           class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
         >
-          Sekcja 3
+          Program
         </h2>
         <div data-aos="fade-up" class="w-full mb-4">
           <div
             class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
           ></div>
+        </div>
+        <div class="p-6 content-center">
+          <h3 class="text-[22px] text-black font-bold leading-10 mb-3 text-center">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+          </h3>
         </div>
         <!-- <div
           class="flex flex-col sm:flex-row justify-center pt-12 my-12 sm:my-4"
@@ -270,7 +276,7 @@
         </div> -->
       </div>
     </section>
-    <svg
+    <!-- <svg
       data-aos="zoom-in-up"
       class="wave-top"
       viewBox="0 0 1439 147"
@@ -305,16 +311,16 @@
           </g>
         </g>
       </g>
-    </svg>
+    </svg> -->
     <section
-      id="contact"
+      id="wsparcie"
       data-aos="zoom-in-up"
       class="container mx-auto text-center py-6 mb-12"
     >
       <h2
         class="w-full my-2 text-5xl font-bold leading-tight text-center text-white"
       >
-        Klikalne coś
+        Wsparcie
       </h2>
       <div class="w-full mb-4">
         <div
@@ -322,13 +328,48 @@
         ></div>
       </div>
       <h3 class="my-4 text-3xl leading-tight">
-        Lorem ipsum blablabla
+        Wesprzyj organizację jubileuszu!
       </h3>
       <button
         class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
       >
         Przycisk
       </button>
+      <button
+        class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+      >
+        Przycisk
+      </button>
+      <button
+        class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+      >
+        Przycisk
+      </button>
+    </section>
+    <section
+      id="newsletter"
+      data-aos="zoom-in-up"
+      class="container mx-auto text-center py-6 mb-12"
+    >
+      <h2
+        class="w-full my-2 text-5xl font-bold leading-tight text-center text-white"
+      >
+        Newsletter
+      </h2>
+      <div>
+        hello
+      </div>
+      <button
+        class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+      >
+        Przycisk
+      </button>
+      <button
+        class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+      >
+        Przycisk
+      </button>
+      
     </section>
     <LayoutFooter />
   </div>
@@ -341,5 +382,44 @@ import Countdown from "~/components/general/Countdown.vue";
 export default Vue.extend({
   components: { Countdown },
   name: "IndexPage",
+  data() {
+    return {
+      scrollY: 0,
+    };
+  },
+  mounted() {
+    this.scrollY = window.scrollY - window.innerHeight;
+    // Listen to the scroll event to update the scrollY property dynamically
+    window.addEventListener("scroll", this.handleScroll);
+  },
+
+  methods: {
+    handleScroll() {
+      this.scrollY = window.scrollY;
+    },
+  },
+
+  watch: {
+    scrollY(newValue: number) {
+      var main = document.getElementById("main");
+      var valYprog = document.getElementById("program")?.getBoundingClientRect().y ?? -100;
+      var valYwspar = document.getElementById("wsparcie")?.getBoundingClientRect().y ?? -100;
+      var valYnews = document.getElementById("newsletter")?.getBoundingClientRect().y ?? -100;
+
+      if (valYnews <= 50) {
+        main?.classList.remove("bg-[#9966FF]");
+        main?.classList.add("bg-[#47D141]");
+      } else if (valYwspar <= 50) {
+        main?.classList.remove("bg-[#FFA9C9]");
+        main?.classList.add("bg-[#9966FF]");
+      } else if (valYprog <= 50) {
+        main?.classList.remove("bg-[#FF4B0F]");
+        main?.classList.add("bg-[#FFA9C9]");
+      } else {
+        main?.classList.remove("bg-[#FFA9C9]");
+        main?.classList.add("bg-[#FF4B0F]");
+      }
+    },
+  }
 });
 </script>

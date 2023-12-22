@@ -9,7 +9,11 @@
     ],
      darkMode: false, // or 'media' or 'class'
      theme: {
-       extend: {},
+       extend: {
+        backgroundImage: {
+          'main': "url('/imgs/group83.svg')",
+        }
+       },
      },
      variants: {
        extend: {},

@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-white">
+  <footer id="kontakt" class="bg-white">
     <div class="container mx-auto px-8">
       <div class="w-full flex flex-col md:flex-row py-6">
         <div class="flex-1 mb-6 text-black">
