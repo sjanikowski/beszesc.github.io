@@ -1,50 +1,60 @@
 <template>
-  <footer id="kontakt" class="bg-white">
-    <div class="container mx-auto px-8">
+  <footer id="kontakt" class="bg-inherit text-black">
+    <div class="container ml-[340px] mr-[240px]">
       <div class="w-full flex flex-col md:flex-row py-6">
-        <div class="flex-1 mb-6 text-black">
-          <a
-            class="no-underline hover:no-underline font-bold text-2xl lg:text-4xl"
-            href="#"
-          >
-            Logo tutaj?
-          </a>
-        </div>
-        <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Linki</p>
+        <div class="flex-initial w-1/5">
+          <p class="mt-2 md:mb-6">Jubileusz 60-lecia DDA Beczka</p>
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="mailto:b60@dominikanie.pl"
                 class="no-underline hover:underline text-gray-800 hover:text-pink-500"
-                >FAQ</a
+                >b60@dominikanie.pl</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="tel:+48987654321"
                 class="no-underline hover:underline text-gray-800 hover:text-pink-500"
-                >Pomoc</a
+                >987 654 321</a
               >
             </li>
           </ul>
         </div>
-        <div class="flex-1">
-          <p class="uppercase text-gray-500 md:mb-6">Social</p>
+        <div class="flex-initial w-1/4">
+          <ul class="list-reset mb-6">
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              Dominikańskie Duszpasterstwo Akademickie Beczka
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              Klasztor Ojców Dominikanów
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              ul. Stolarska 12
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              31-043 Kraków
+            </li>
+          </ul>
+        </div>
+        <div class="flex-initial w-1/5 text-right">
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="#"
                 class="no-underline hover:underline text-gray-800 hover:text-pink-500"
-                >Facebook</a
+                >FACEBOOK</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="#"
                 class="no-underline hover:underline text-gray-800 hover:text-pink-500"
-                >Twitter</a
+                >INSTAGRAM</a
               >
+            </li>
+            <li class="mt-10 inline-block mr-2 md:block md:mr-0">
+              Copyright © B60 2023
             </li>
           </ul>
         </div>

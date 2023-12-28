@@ -3,12 +3,29 @@
     <div
       class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0"
     >
-      <div id="logo" class="absolute top-[60px] left-[100px] w-[72px] h-[150px]">
+      <div id="logo" class="absolute top-[60px] left-[100px] w-[72px] h-[150px] z-50">
         <a
           class="no-underline"
           href="#"
         >
         <img src="../../assets/imgs/Logo_strona_B60-03.svg" alt="logo">
+        </a>
+      </div>
+      <!-- do poprawienia - z-indexy -->
+      <div id="insta" class="absolute top-[60px] right-[100px] z-50 opacity-50 hover:opacity-100">
+        <a
+          class="no-underline"
+          href="#"
+        >
+        <img src="../../assets/imgs/Component_insta.svg" alt="insta">
+        </a>
+      </div>
+      <div id="fb" class="absolute top-[130px] right-[100px] opacity-50 hover:opacity-100">
+        <a
+          class="no-underline"
+          href="#"
+        >
+        <img src="../../assets/imgs/Component_fb.svg" alt="fb">
         </a>
       </div>
       <div class="block lg:hidden pr-4">
