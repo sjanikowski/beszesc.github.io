@@ -1,8 +1,14 @@
 <template>
   <div id="main" class="w-full overflow-hidden leading-normal tracking-normal text-black duration-400">
     <LayoutNav />
-    <div id="landing" class="w-full h-screen relative">
-      <svg id="rays" class="w-full absolute" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1946.486" height="1068.163" viewBox="0 0 1946.486 1068.163">
+    <div id="landing" class="w-full h-screen relative font-bold">
+      <div id="zero" class="absolute text-[40px] m-auto left-0 right-0 w-1/2 top-[20%] text-center z-[60]">
+        <i>Na początku było zero.</i><br>A dziś <i>Beczka</i> ma już 60 lat.
+      </div>
+      <div id="swietuj" class="absolute text-[25px] font-['Chonburi'] m-auto left-0 right-0 w-1/2 top-[40%] text-center z-[60]">
+        Świętuj z nami jej urodziny!
+      </div>
+      <svg id="rays" class="w-full absolute m-auto top-0 bottom-1/4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1946.486 1068.163">
         <defs>
           <clipPath id="clip-path">
             <rect id="Rectangle_70" data-name="Rectangle 70" width="1946.486" height="1068.163" fill="none" stroke="#ffa9c9" stroke-width="2"/>
@@ -28,7 +34,7 @@
           </g>
         </g>
       </svg>
-      <svg id="conf" class="w-full absolute" xmlns="http://www.w3.org/2000/svg" width="1624.106" height="840.088" viewBox="0 0 1624.106 840.088">
+      <svg id="conf" class="absolute w-4/5 m-auto left-0 right-0 top-0 bottom-1/4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1624.106 840.088">
         <g id="Group_85" data-name="Group 85" transform="translate(131.813 50.581)">
           <rect id="Rectangle_71" data-name="Rectangle 71" width="33.427" height="5.908" transform="translate(128.855 514.074) rotate(-24.116)" fill="#0071ff"/>
           <rect id="Rectangle_72" data-name="Rectangle 72" width="5.908" height="33.426" transform="translate(139.925 227.389) rotate(-9)" fill="#0071ff"/>
@@ -50,7 +56,7 @@
           <rect id="Rectangle_89" data-name="Rectangle 89" width="5.908" height="33.427" transform="translate(395.072 464.432) rotate(-140)" fill="#0071ff"/>
         </g>
       </svg>
-      <svg id="hc" class="w-full absolute w-1/2 m-auto left-0 right-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
+      <svg id="hc" class="absolute w-1/2 m-auto left-0 right-0 translate-y-full" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
         <g id="Group_91" data-name="Group 91" transform="translate(-423 -543.77)">
           <path id="Path_251" data-name="Path 251" d="M2830.178,1821.521c-296.7,0-537.23,240.526-537.23,537.23h1074.46C3367.408,2062.047,3126.883,1821.521,2830.178,1821.521Z" transform="translate(-1869.948 -1277.751)" fill="#ff4b0f"/>
           <g id="Group_13" data-name="Group 13" transform="translate(827 654)">
