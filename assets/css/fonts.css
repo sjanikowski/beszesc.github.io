@@ -1,8 +1,8 @@
 @font-face{font-family:'Chonburi';src:url(../fonts/Chonburi/Chonburi-Regular.ttf)}
-@font-face{font-family:'RedHatDisplay';src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-Black.ttf)}
-@font-face{font-family:'RedHatDisplay';src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-BlackItalic.ttf)}
+@font-face{font-family:'RedHatDisplay';font-weight:900;src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-Black.ttf)}
+@font-face{font-family:'RedHatDisplay';font-weight:900;font-style:italic;src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-BlackItalic.ttf)}
 @font-face{font-family:'RedHatDisplay';font-weight:800;src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-Bold.ttf)}
-@font-face{font-family:'RedHatDisplay';src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-BoldItalic.ttf)}
+@font-face{font-family:'RedHatDisplay';font-weight:800;font-style:italic;src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-BoldItalic.ttf)}
 @font-face{font-family:'RedHatDisplay';src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-Italic.ttf)}
 @font-face{font-family:'RedHatDisplay';src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBold.ttf)}
 @font-face{font-family:'RedHatDisplay';src:url(../fonts/Red_Hat_Display/static/RedHatDisplay-ExtraBoldItalic.ttf)}

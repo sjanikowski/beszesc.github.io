@@ -2,18 +2,22 @@
   <div id="main" class="w-full overflow-hidden leading-normal tracking-normal text-black duration-400">
     <LayoutNav />
     <div id="landing" class="w-full h-screen relative font-bold">
-      <div id="zero" class="absolute text-[40px] m-auto left-0 right-0 w-1/2 top-[20%] text-center z-[60]">
-        <i>Na początku było zero.</i><br>A dziś <i>Beczka</i> ma już 60 lat.
+      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-1/2 top-[20%] z-[60]">
+        <div id="zero" class="text-[40px] text-center">
+          <i>Na początku było zero.</i><br>A dziś <i>Beczka</i> ma już 60 lat.
+        </div>
+        <div id="swietuj" class="text-[25px] font-['Chonburi'] text-center">
+          Świętuj z nami jej urodziny!
+        </div>
       </div>
-      <div id="swietuj" class="absolute text-[25px] font-['Chonburi'] m-auto left-0 right-0 w-1/2 top-[40%] text-center z-[60]">
-        Świętuj z nami jej urodziny!
-      </div>
-      <svg id="rays" class="w-full absolute m-auto top-0 bottom-1/4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1946.486 1068.163">
+<!-- Background: url(“/image.Svg”) Background-size: cover Background-position: center Background-attachment:fixed -->
+      <svg id="rays" class="w-full absolute m-auto top-0 bottom-[10%] min-w-[1500px]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1946.486 1068.163">
         <defs>
           <clipPath id="clip-path">
-            <rect id="Rectangle_70" data-name="Rectangle 70" width="1946.486" height="1068.163" fill="none" stroke="#ffa9c9" stroke-width="2"/>
+            <rect id="Rectangle_70" data-name="Rectangle 70" width="1946.486" height="1068.163" fill="#FFF1E3" stroke="#ffa9c9" stroke-width="2"/>
           </clipPath>
         </defs>
+        <rect id="Rectangle_100" data-name="Rectangle 100" width="1946.486" height="1068.163" fill="#FFF1E3" stroke="#ffa9c9" stroke-width="2"/>
         <g id="Group_83" data-name="Group 83" transform="translate(-5384.681 -5221.904)">
           <g id="Group_82" data-name="Group 82" transform="translate(5384.681 5221.904)" clip-path="url(#clip-path)">
             <line id="Line_1" data-name="Line 1" x1="212.679" y1="1068.162" transform="translate(760.564 0.001)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
@@ -418,8 +422,9 @@ export default Vue.extend({
         main?.classList.remove("bg-[#FFA9C9]");
         main?.classList.add("bg-[#FF4B0F]");
       } else {
-        main?.classList.remove("bg-[#FF4B0F]");
-        main?.classList.add("bg-[#FFF1E3]");
+        main?.classList.remove("bg-[#FFF1E3]");
+        main?.classList.remove("bg-[#FFA9C9]");
+        main?.classList.add("bg-[#FF4B0F]");
       }
     }
   }
