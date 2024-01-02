@@ -3,7 +3,7 @@
     <div
       class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0"
     >
-      <div id="logo" class="absolute top-[60px] left-[100px] w-[72px] h-[150px] z-50">
+      <div id="logo" class="absolute top-[30px] left-[30px] md:top-[60px] md:left-[100px] w-[72px] h-[150px] z-50">
         <a
           class="no-underline"
           href="#"
@@ -11,7 +11,7 @@
         <img src="../../assets/imgs/Logo_strona_B60-03.svg" alt="logo">
         </a>
       </div>
-      <div id="insta" class="absolute top-[60px] right-[100px] z-50 opacity-50 hover:opacity-100">
+      <div id="insta" class="hidden md:inline-block absolute top-[60px] right-[100px] z-50 opacity-50 hover:opacity-100">
         <a
           class="no-underline"
           href="#"
@@ -19,7 +19,7 @@
         <img src="../../assets/imgs/Component_insta.svg" alt="insta">
         </a>
       </div>
-      <div id="fb" class="absolute top-[130px] right-[100px] opacity-50 hover:opacity-100">
+      <div id="fb" class="hidden md:inline-block absolute top-[130px] right-[100px] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
           href="#"
@@ -27,7 +27,7 @@
         <img src="../../assets/imgs/Component_fb.svg" alt="fb">
         </a>
       </div>
-      <div id="naokr_txt" class="absolute top-[70vh] left-[100px] z-50 rotate-45">
+      <div id="naokr_txt" class="hidden md:inline-block absolute top-[75vh] left-[100px] z-50 rotate-45">
         <a
           class="no-underline"
           href="#"
@@ -76,7 +76,7 @@
         </svg>
         </a>
       </div>
-      <div id="naokr" class="absolute top-[70vh] left-[100px] z-50">
+      <div id="naokr" class="hidden md:inline-block absolute top-[75vh] left-[100px] z-50">
         <a
           class="no-underline"
           href="#"
@@ -90,11 +90,11 @@
         </svg>
         </a>
       </div>
-      <div class="block lg:hidden pr-4">
+      <div class="absolute top-[30px] right-[30px] lg:hidden pr-4 z-[200]">
         <button
           @click="mobileSidebar = !mobileSidebar"
           id="nav-toggle"
-          class="flex items-center p-1 text-white-800 hover:text-gray-900 focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+          class="flex items-center p-1 text-black hover:text-gray-900 focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
         >
           <svg
             class="fill-current h-6 w-6"
@@ -108,7 +108,7 @@
       </div>
       <div
         :class="mobileSidebar ? '' : 'hidden'"
-        class="w-full flex-grow lg:flex lg:items-center lg:w-auto mt-2 lg:mt-0 bg-white lg:bg-transparent text-black p-4 lg:p-0 z-20"
+        class="w-full flex-grow lg:flex lg:items-center lg:w-auto mt-2 lg:mt-0 bg-inherit lg:bg-transparent text-black p-4 lg:p-0 z-20"
         id="nav-content"
       >
         <ul class="pt-14 list-reset lg:flex justify-center flex-1 items-center">

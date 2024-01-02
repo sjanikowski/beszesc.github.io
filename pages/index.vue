@@ -2,11 +2,11 @@
   <div id="main" class="w-full overflow-hidden leading-normal tracking-normal text-black duration-400">
     <LayoutNav />
     <div id="landing" class="w-full h-screen relative font-bold">
-      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-1/2 top-[20%] z-[60]">
-        <div id="zero" class="text-[40px] text-center">
+      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-4/5 md:w-1/2 top-[20%] z-[60]">
+        <div id="zero" class="text-[34px] md:text-[40px] text-center p-2">
           <i>Na początku było zero.</i><br>A dziś <i>Beczka</i> ma już 60 lat.
         </div>
-        <div id="swietuj" class="text-[25px] font-['Chonburi'] text-center">
+        <div id="swietuj" class="text-[17px] md:text-[20px] font-['Chonburi'] text-center p-2">
           Świętuj z nami jej urodziny!
         </div>
       </div>
@@ -59,7 +59,7 @@
           <rect id="Rectangle_89" data-name="Rectangle 89" width="5.908" height="33.427" transform="translate(395.072 464.432) rotate(-140)" fill="#0071ff"/>
         </g>
       </svg>
-      <svg id="hc" class="absolute m-auto left-0 right-0 bottom-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23" width="50%">
+      <svg id="hc" class="absolute w-full md:w-1/2 m-auto left-0 right-0 bottom-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
         <g id="Group_91" data-name="Group 91" transform="translate(-423 -543.77)">
           <path id="Path_251" data-name="Path 251" d="M2830.178,1821.521c-296.7,0-537.23,240.526-537.23,537.23h1074.46C3367.408,2062.047,3126.883,1821.521,2830.178,1821.521Z" transform="translate(-1869.948 -1277.751)" fill="#ff4b0f"/>
           <g id="Group_13" data-name="Group 13" transform="translate(827 654)">
@@ -214,9 +214,9 @@
         <h3 class="text-[22px] text-black font-bold leading-10 mb-3 text-center">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
         </h3>
-        <div class="container mx-auto relative h-[560px] w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
-          <a href="#">
-            <svg class="absolute" id="dorzuc_svg" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" width="566.335" height="563.634" viewBox="0 0 566.335 563.634">
+        <div class="container mx-auto relative h-[280px] w-[280px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
+          <a href="https://wspieramdabeczka.dominikanie.pl/">
+            <svg class="absolute h-[280px] w-[280px] md:h-[560px] md:w-[560px]" id="dorzuc_svg" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
               <g id="Group_21" data-name="Group 21" transform="translate(-131.788 -599.665)">
                 <g id="Group_18" data-name="Group 18" transform="translate(390.281 798.167)">
                   <path id="Path_84" data-name="Path 84" d="M879.438,1009.236a3.549,3.549,0,1,0-3.55-3.55A3.549,3.549,0,0,0,879.438,1009.236Z" transform="translate(-783.693 -956.44)" fill="#fff"/>
@@ -231,7 +231,7 @@
                 </g>
               </g>
             </svg>
-            <svg class="absolute hover:rotate-90" id="dorzuc_txt" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" width="566.335" height="563.634" viewBox="0 0 566.335 563.634">
+            <svg class="absolute h-[280px] w-[280px] md:h-[560px] md:w-[560px] hover:rotate-90" id="dorzuc_txt" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
               <g id="Group_66" data-name="Group 66" transform="translate(-480.383 -247.623)">
                 <path id="Path_145" data-name="Path 145" d="M764.807,264.65l1.519-17.027,6.908.617a9.359,9.359,0,0,1,3.467.972,9.006,9.006,0,0,1,2.7,2.079,8.517,8.517,0,0,1,1.679,2.9,8.222,8.222,0,0,1,.394,3.419,7.944,7.944,0,0,1-.989,3.246,8.475,8.475,0,0,1-2.16,2.517,9.132,9.132,0,0,1-3.021,1.557,9.385,9.385,0,0,1-3.585.342Zm4.513-3.323,2.626.234a4.746,4.746,0,0,0,5.193-4.342,5.007,5.007,0,0,0-.195-1.942,4.685,4.685,0,0,0-.884-1.636,4.94,4.94,0,0,0-1.427-1.169,4.627,4.627,0,0,0-1.828-.543l-2.626-.234Z" transform="translate(14.954)" fill="#ffa9c9"/>
                 <path id="Path_146" data-name="Path 146" d="M790.071,267.56a7.16,7.16,0,0,1-3.378-1.447,6.791,6.791,0,0,1-2.1-2.776,6.7,6.7,0,0,1,1.082-6.714,6.777,6.777,0,0,1,2.868-1.986,7.575,7.575,0,0,1,7.041,1.136,6.772,6.772,0,0,1,2.1,2.787,6.7,6.7,0,0,1-1.081,6.714,6.815,6.815,0,0,1-2.867,1.974A7.153,7.153,0,0,1,790.071,267.56Zm.544-3.375a3.007,3.007,0,0,0,1.661-.178,3.2,3.2,0,0,0,1.3-.99,3.322,3.322,0,0,0,.672-1.561,3.378,3.378,0,0,0-.142-1.718,3.187,3.187,0,0,0-.933-1.35,3.131,3.131,0,0,0-3.158-.509,3.16,3.16,0,0,0-1.309.989,3.366,3.366,0,0,0-.677,1.585,3.313,3.313,0,0,0,.147,1.694,3.174,3.174,0,0,0,.932,1.349A3.027,3.027,0,0,0,790.615,264.186Z" transform="translate(15.97 0.347)" fill="#ffa9c9"/>
@@ -339,18 +339,13 @@
       id="newsletter"
       class="container h-[500px] relative mx-auto text-center py-6 mb-12"
     >
-      <!-- <h2
-          class="w-full my-16 text-[75px] font-['Chonburi'] font-normal leading-tight text-center text-black"
-        >
-        Newsletter
-      </h2> -->
-      <div class="relative p-6 z-20 float-right right-[240px]">
-          <h3 class="text-[65px] max-w-lg text-black font-['RedHatDisplay'] font-medium leading-[80px] mb-3 text-right">
+      <div class="relative p-6 z-20 float-right md:right-[240px]">
+          <h3 class="text-[40px] md:text-[65px] max-w-lg text-black font-['RedHatDisplay'] font-medium leading-[52px] md:leading-[80px] mb-3 text-right">
               <b>Zapisz się na newsletter</b><br>i bądź na bieżąco
           </h3>
       </div>
-      <div class="absolute z-10 top-[120px] right-[340px]">
-        <svg xmlns="http://www.w3.org/2000/svg" width="379.378" height="379.377" viewBox="0 0 379.378 379.377">
+      <div class="absolute z-10 top-[95px] right-[75px] md:top-[120px] md:right-[340px]">
+        <svg class="w-[220px] h-[220px] md:w-[380px] md:h-[380px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379.378 379.377">
           <g id="Group_71" data-name="Group 71" transform="translate(120.561 919.905) rotate(45)">
             <g id="Group_68" data-name="Group 68" transform="translate(-589.224 -711.719)">
               <path id="Path_244" data-name="Path 244" d="M-467.46-418.725l32.47-52H-345.7L-467.46-711.719-589.224-470.728h89.293Z" transform="translate(589.224 711.719)" fill="#fff"/>
