@@ -244,7 +244,4 @@ a {
   color: rgb(0, 0, 0);
 }
 
-.navbar-active ul li a{
-  color: #170F4F;
-}
 </style>

@@ -10,8 +10,7 @@
           Świętuj z nami jej urodziny!
         </div>
       </div>
-<!-- Background: url(“/image.Svg”) Background-size: cover Background-position: center Background-attachment:fixed -->
-      <svg id="rays" class="w-full absolute m-auto top-0 bottom-[10%] min-w-[1500px]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1946.486 1068.163">
+      <!-- <svg id="rays" class="absolute m-auto bottom-0 min-h-screen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" viewBox="0 0 1946.486 1068.163">
         <defs>
           <clipPath id="clip-path">
             <rect id="Rectangle_70" data-name="Rectangle 70" width="1946.486" height="1068.163" fill="#FFF1E3" stroke="#ffa9c9" stroke-width="2"/>
@@ -37,7 +36,7 @@
             <line id="Line_15" data-name="Line 15" x1="973.244" y2="195.604" transform="translate(973.243 872.558)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
           </g>
         </g>
-      </svg>
+      </svg> -->
       <svg id="conf" class="absolute w-4/5 m-auto left-0 right-0 top-0 bottom-1/4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1624.106 840.088">
         <g id="Group_85" data-name="Group 85" transform="translate(131.813 50.581)">
           <rect id="Rectangle_71" data-name="Rectangle 71" width="33.427" height="5.908" transform="translate(128.855 514.074) rotate(-24.116)" fill="#0071ff"/>
@@ -60,7 +59,7 @@
           <rect id="Rectangle_89" data-name="Rectangle 89" width="5.908" height="33.427" transform="translate(395.072 464.432) rotate(-140)" fill="#0071ff"/>
         </g>
       </svg>
-      <svg id="hc" class="absolute w-1/2 m-auto left-0 right-0 translate-y-full" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
+      <svg id="hc" class="absolute m-auto left-0 right-0 bottom-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23" width="50%">
         <g id="Group_91" data-name="Group 91" transform="translate(-423 -543.77)">
           <path id="Path_251" data-name="Path 251" d="M2830.178,1821.521c-296.7,0-537.23,240.526-537.23,537.23h1074.46C3367.408,2062.047,3126.883,1821.521,2830.178,1821.521Z" transform="translate(-1869.948 -1277.751)" fill="#ff4b0f"/>
           <g id="Group_13" data-name="Group 13" transform="translate(827 654)">
@@ -430,3 +429,12 @@ export default Vue.extend({
   }
 });
 </script>
+
+<style>
+#landing {
+  background-image: url(../assets/imgs/landing_rays_only.svg), url("../assets/imgs/landing_rays.svg");
+  Background-size: cover;
+  Background-position: center;
+  Background-attachment:fixed;
+}
+</style>
