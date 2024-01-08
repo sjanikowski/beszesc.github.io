@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{302:function(t,e,n){"use strict";n.r(e);var o=n(1),l=Object(o.b)({name:"layout-footer"}),r=n(42),component=Object(r.a)(l,(function(){var t=this._self._c;this._self._setupProxy;return t("footer",{staticClass:"bg-inherit text-black",attrs:{id:"kontakt"}})}),[],!1,null,null,null);e.default=component.exports}}]);
