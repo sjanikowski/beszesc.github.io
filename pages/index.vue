@@ -5,25 +5,25 @@
         <div class="md:w-1/3 md:float-left">
           <img class="w-[50px] h-[104px] md:w-[75px] md:h-[156px]" src="../assets/imgs/b60_logo.svg" alt="logo" width="50" height="104">
         </div>
-        <div class="w-1/2 md:w-2/3 text-right font-medium text-[26px] l:text-[32px] xl:text-[38px] 2xl:text-[45px] float-right"><b class="font-black">Strona jeszcze <i>w&nbsp;budowie</i></b><br>Premiera już&nbsp;wkrótce</div>
+        <div class="w-1/2 md:w-2/3 text-right font-medium text-[26px] l:text-[32px] xl:text-[38px] 2xl:text-[45px] float-right tracking-[0.55px]"><b class="font-black">Strona jeszcze <i>w&nbsp;budowie</i></b><br>Premiera już&nbsp;wkrótce</div>
       </div>
       <div class="w-full font-medium flex justify-between gap-x-20 flex-col md:flex-row pt-6">
         <div class="flex-[0_1_25%]">
           <div class="pb-5 w-4/5 pt-10 md:pt-0 md:w-full">
             Aktualne informacje o najbliższych wydarzeniach znajdziesz na naszych <b>mediach&nbsp;społecznościowych</b>
           </div>
-          <ul class="list-reset mb-6">
+          <ul class="list-reset mb-6 font-bold tracking-[0.5px]">
             <li class="block mr-2 md:mr-0">
               <a
                 href="https://www.facebook.com/DABeczka"
-                class="no-underline hover:underline"
+                class="no-underline hover:text-[#FE4B0F]"
                 >FACEBOOK</a
               >
             </li>
             <li class="block mr-2 md:mr-0">
               <a
                 href="https://www.instagram.com/ddabeczka/"
-                class="no-underline hover:underline"
+                class="no-underline hover:text-[#FE4B0F]"
                 >INSTAGRAM</a
               >
             </li>
@@ -32,17 +32,17 @@
         <div class="flex-[1_1_25%]">
           <p class="pt-10 md:pt-0 min-[2222px]:mb-5 min-[1758px]:mb-11 min-[1410px]:mb-[68px] md:mb-11 md:pb-0">Masz pytania?<br><b>Skontaktuj się z nami</b></p>
           <ul class="list-reset mb-6">
-            <li class="block mr-2 md:mr-0">
+            <li class="block mr-2 md:mr-0 font-bold tracking-[0.55px]">
               <a
                 href="mailto:b60@dominikanie.pl"
-                class="no-underline hover:underline "
+                class="no-underline hover:text-[#FE4B0F]"
                 >b60@dominikanie.pl</a
               >
             </li>
             <li class="block mr-2 md:mr-0">
               <a
                 href="tel:+48124231613"
-                class="no-underline hover:underline "
+                class="no-underline hover:text-[#FE4B0F] font-medium"
                 >12 423 16 13 (7:30-15:30)</a
               >
             </li>
@@ -56,7 +56,7 @@
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="https://wspieramdabeczka.dominikanie.pl/"
-                class="no-underline hover:underline font-black"
+                class="no-underline hover:text-[#FE4B0F] font-black tracking-[0.5px]"
                 >LINK DO ZBIÓRKI</a
               >
             </li>
