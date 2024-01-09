@@ -9,10 +9,10 @@
       </div>
       <div class="w-full font-medium flex justify-between gap-x-20 flex-col md:flex-row pt-6">
         <div class="flex-[0_1_25%]">
-          <div class="pb-5 w-4/5 pt-10 md:pt-0 md:w-full">
+          <div class="pb-[22px] w-4/5 pt-10 md:pt-0 md:w-full">
             Aktualne informacje o najbliższych wydarzeniach znajdziesz na naszych <b>mediach&nbsp;społecznościowych</b>
           </div>
-          <ul class="list-reset mb-6 font-bold tracking-[0.5px]">
+          <ul class="list-reset  font-bold tracking-[0.5px]">
             <li class="block mr-2 md:mr-0">
               <a
                 href="https://www.facebook.com/DABeczka"
@@ -30,8 +30,8 @@
           </ul>
         </div>
         <div class="flex-[1_1_25%]">
-          <p class="pt-10 md:pt-0 min-[2222px]:mb-5 min-[1758px]:mb-11 min-[1410px]:mb-[68px] md:mb-11 md:pb-0">Masz pytania?<br><b>Skontaktuj się z nami</b></p>
-          <ul class="list-reset mb-6">
+          <p class="pb-[22px] md:pb-0 pt-10 md:pt-0 min-[2222px]:mb-5 min-[1758px]:mb-11 min-[1410px]:mb-[68px] md:mb-11">Masz pytania?<br><b>Skontaktuj się z nami</b></p>
+          <ul class="list-reset ">
             <li class="block mr-2 md:mr-0 font-bold tracking-[0.55px]">
               <a
                 href="mailto:b60@dominikanie.pl"
@@ -49,11 +49,11 @@
           </ul>
         </div>
         <div class="flex-[1_1_25%]">
-          <div class="pt-10 md:pt-0 min-[2222px]:mb-5 min-[1758px]:mb-11 min-[1404px]:mb-[68px] min-[1315px]:mb-11 md:mb-5">
+          <div class="pb-[22px] md:pb-0 pt-10 md:pt-0 min-[2222px]:mb-5 min-[1758px]:mb-11 min-[1404px]:mb-[68px] min-[1315px]:mb-11 md:mb-5">
             <b>Wesprzyj</b> organizację<br>Jubileuszu B60
           </div>
-          <ul class="list-reset mb-6">
-            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+          <ul class="list-reset ">
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0 mb-4 md:mb-0">
               <a
                 href="https://wspieramdabeczka.dominikanie.pl/"
                 class="no-underline hover:text-[#FE4B0F] font-black tracking-[0.5px]"
