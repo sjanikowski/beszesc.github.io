@@ -1,4 +1,4 @@
-<svg id="Component_27_1" data-name="Component 27 – 1" xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
-  <circle id="Ellipse_8" data-name="Ellipse 8" cx="47" cy="47" r="47"/>
-  <path id="Path_243" data-name="Path 243" d="M383.839,196.4l-5.213,5.213,16.84,16.84H361.785a3.686,3.686,0,0,0,0,7.372h33.681l-16.84,16.84,5.213,5.213,25.74-25.739Z" transform="translate(-337.224 -175.524)" fill="#47d141"/>
+<svg id="Component_35_1" data-name="Component 35 – 1" xmlns="http://www.w3.org/2000/svg" width="94.074" height="94.074" viewBox="0 0 94.074 94.074">
+  <path id="Path_498" data-name="Path 498" d="M657.935,257.86A47.037,47.037,0,1,0,704.972,304.9,47.037,47.037,0,0,0,657.935,257.86Zm0,72.874L652.7,325.5l16.9-16.9H635.8a3.7,3.7,0,1,1,0-7.4h33.808l-16.9-16.9,5.232-5.233L683.771,304.9Z" transform="translate(-610.898 -257.86)"/>
+  <path id="Path_499" data-name="Path 499" d="M660.764,292.356l16.9,16.9H643.86a3.7,3.7,0,1,0,0,7.4h33.808l-16.9,16.9L666,338.8l25.837-25.836L666,287.123Z" transform="translate(-618.96 -265.922)" fill="#fff" opacity="0"/>
 </svg>

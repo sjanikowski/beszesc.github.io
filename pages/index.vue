@@ -1,16 +1,16 @@
 <template>
-  <div id="main" class="w-full overflow-hidden leading-normal tracking-normal text-black duration-400">
+  <div id="main" class="w-full overflow-hidden leading-tight sm:leading-normal tracking-normal text-black duration-400">
     <LayoutNav />
     <div id="landing" class="w-full h-screen relative font-bold">
-      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-4/5 md:w-1/2 top-[20%] z-[60]">
-        <div id="zero" class="text-[34px] md:text-[40px] text-center p-2">
+      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-5/6 md:w-1/2 top-[20%] z-[60]">
+        <div id="zero" class="text-[22px] sm:text-[34px] md:text-[40px] sm:text-center font-black py-2 sm:p-2">
           <i>Na początku było zero.</i><br>A dziś <i>Beczka</i> ma już 60 lat.
         </div>
-        <div id="swietuj" class="text-[17px] md:text-[20px] font-['Chonburi'] text-center p-2">
+        <div id="swietuj" class="text-[11.5px] sm:text-[17px] md:text-[20px] font-['Chonburi'] sm:text-center py-2 sm:p-2">
           Świętuj z nami jej urodziny!
         </div>
       </div>
-      <svg id="hc" class="absolute w-full md:w-1/2 m-auto left-0 right-0 bottom-0 scale-y-[1.01]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
+      <svg id="hc" class="absolute w-full md:w-1/2 m-auto left-0 right-0 bottom-0 scale-150 md:scale-x-100 md:scale-y-[1.01]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
         <g id="Group_91" data-name="Group 91" transform="translate(-423 -543.77)">
           <path id="Path_251" data-name="Path 251" d="M2830.178,1821.521c-296.7,0-537.23,240.526-537.23,537.23h1074.46C3367.408,2062.047,3126.883,1821.521,2830.178,1821.521Z" transform="translate(-1869.948 -1277.751)" fill="#ff4b0f"/>
           <g id="Group_13" data-name="Group 13" transform="translate(827 654)">
@@ -35,12 +35,12 @@
     <section id="idea" class="bg-inherit pt-16 pb-8">
       <div class="container max-w-4xl mx-auto m-8">
         <h2
-          class="w-full my-16 text-[75px] font-['Chonburi'] font-normal leading-tight text-center text-black"
+          class="w-full my-8 sm:my-16 text-[38px] sm:text-[75px] font-['Chonburi'] font-normal leading-tight text-center text-black"
         >
           Idea B60
         </h2>
         <div class="p-6 content-center">
-          <h3 class="text-[22px] text-black font-['RedHatDisplay'] font-medium leading-10 mb-3 text-center">
+          <h3 class="text-[11px] sm:text-[22px] text-black font-['RedHatDisplay'] font-medium leading-5 sm:leading-10 mb-3 text-center">
               <b>60 lat temu</b> Karol Wojtyła został arcybiskupem krakowskim, wyemitowano pierwszy odcinek <i>Bonanzy</i>, 
               na Balicach lądował pierwszy samolot, The Beatles wydali swój pierwszy album, <b>w Krakowie powstało 
               Dominikańskie Duszpasterstwo Akademickie Beczka. 6 dekad</b> - od takiego czasu <i>Beczka</i> towarzyszy 
@@ -53,10 +53,10 @@
         </div>
       </div>
     </section>
-    <section id="zwiastun" class="py-8">
-      <div class="container mx-auto py-16 bg-inherit">
+    <section id="zwiastun" class="py-4 sm:py-8">
+      <div class="container mx-auto md:py-16 bg-inherit">
         <p style="display: flex; justify-content: center;">
-          <iframe class="w-[640px] h-[360px] md:w-[960px] md:h-[540px] rounded-3xl" src="https://www.youtube.com/embed/D7GHelwdayE?si=_LPiYnR3H0p1S1KZ&player=html5" title="YouTube video player" frameborder="0" 
+          <iframe class="w-[320px] h-[180px] md:w-[640px] md:h-[360px] xl:w-[960px] xl:h-[540px] rounded-3xl" src="https://www.youtube.com/embed/D7GHelwdayE?si=_LPiYnR3H0p1S1KZ&player=html5" title="YouTube video player" frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </p>
       </div>
@@ -64,12 +64,12 @@
     <section id="program" class="container max-w-4xl mx-auto text-center py-6 mb-12">
       <div class="mx-auto m-8">
         <h2
-          class="w-full my-16 text-[75px] font-['Chonburi'] font-normal leading-tight text-black"
+          class="w-full my-8 sm:my-16 text-[38px] sm:text-[75px] font-['Chonburi'] font-normal leading-tight text-black"
         >
           Program
         </h2>
         <div class="p-6 content-center">
-          <h3 class="text-[22px] text-black font-medium leading-10 mb-16 text-center">
+          <h3 class="text-[11px] sm:text-[22px] text-black font-medium leading-5  sm:leading-10 mb-8 sm:mb-16 text-center">
             <b><i>Beczka</i> narodziła się jesienią roku 1964.</b> Z okazji okrągłego jubileuszu (60 lat) chcemy przeżyć rok 2024 na radosnym świętowaniu, docenić to, co Beczka przeszła i to, czym jest teraz. 
             <b>W skrócie nazwaliśmy ten jubileusz „B60”.</b><br><br>
             W styczniu i maju, zanim <b>zaczniemy świętować na dobre, zapraszamy na przedjubileuszową rozgrzewkę</b> 
@@ -78,157 +78,157 @@
             Zaczniemy 29.09 od Mszy Świętej o 20:20. A co będzie potem? Tort, Bal Jubileuszowy, rekolekcje, dyskusje, premiera filmu dokumentalnego o <i>Beczce</i> i wiele innych okazji do spotkań i świętowania razem z Wami.
           </h3>
         </div>
-        <div class="text-[17px] py-14 tracking-[2.55px] font-medium">
+        <div class="text-[9px]  sm:text-[17px] py-7 sm:py-14 tracking-[1.2px] sm:tracking-[2.55px] font-medium">
           PRZEDJUBILEUSZOWA ROZGRZEWKA
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
-        <div class="text-[27px] font-medium my-14">
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             14.01 Rozpoczynamy odliczanie	
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
         
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             12.05 Już za chwilę
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[17px] pt-32 pb-14 tracking-[2.55px] font-medium">
+        <div class="text-[9px]  sm:text-[17px] pt-32 pb-14 tracking-[1.2px] sm:tracking-[2.55px] font-medium">
           GŁÓWNE OBCHODY JUBILEUSZU
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             29.09 Oficjalne otwarcie obchodów B60
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             30.09 — 5.10 Prologos
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             3.10 Beczka łączy pokolenia
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             6.10 60. urodziny Beczki
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             6.10 — 9.10 Rekolekcje na dobry początek
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             10.10 Trzy okresy życia duchowego
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             11.10 Cztery pory relacji
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             12.10 Kiedyś to było
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             26.10 Wybiła północ
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             25.05 Patrząc w wieczność
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[27px] font-medium my-14">
+        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
           <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
             29.06 Uroczyste zakończenie obchodów B60
           </span>
         </div>
-        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
         </div>
-        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
       </div>
     </section>
@@ -237,20 +237,20 @@
       class="container max-w-4xl mx-auto text-center py-6 mb-12"
     >
       <h2
-          class="w-full my-16 text-[75px] font-['Chonburi'] font-normal leading-tight text-black"
+          class="w-full my-8 sm:my-16 text-[38px] sm:text-[75px] font-['Chonburi'] font-normal leading-tight text-black"
         >
         Wsparcie
       </h2>
       <div class="p-6 content-center">
-        <h3 class="text-[22px] text-black font-medium leading-10 mb-3 text-center">
+        <h3 class="text-[11px] sm:text-[22px] text-black font-medium leading-5  sm:leading-10 mb-3 text-center">
           Organizacja Jubileuszu 60-lecia Dominikańskiego Duszpasterstwa Akademickiego <i>Beczka</i> to duże przedsięwzięcie. 
           <b>Liczne spotkania z zaproszonymi gośćmi, premiera filmu dokumentalnego, uroczyste przyjęcie urodzinowe, Bal Jubileuszowy, rekolekcje głoszone przez byłych duszpasterzy DDA Beczka, wystawa, koncert, spektakl</b> — to tylko 
           początek listy inicjatyw, które towarzyszyć będą obchodom Jubileuszu w trakcie całego roku akademickiego. Wszystko, by móc wspólnie się spotkać, powspominać, ucieszyć i poświętować.<br><br>
           To nie tylko ogromna ilość pracy, ale także niezbędnych do zgromadzenia środków finansowych. <b>Przygotowanie B60 nie będzie możliwe bez Waszego wsparcia i zaangażowania</b>, za które już teraz jesteśmy niezmiernie wdzięczni.
         </h3>
-        <div class="container mx-auto relative h-[280px] w-[280px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
+        <div class="container mx-auto relative h-[320px] w-[320px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
           <a href="https://wspieramdabeczka.dominikanie.pl/">
-            <svg class="absolute h-[280px] w-[280px] md:h-[560px] md:w-[560px]" id="dorzuc_svg" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
+            <svg class="absolute h-[320px] w-[320px] md:h-[560px] md:w-[560px]" id="dorzuc_svg" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
               <g id="Group_21" data-name="Group 21" transform="translate(-131.788 -599.665)">
                 <g id="Group_18" data-name="Group 18" transform="translate(390.281 798.167)">
                   <path id="Path_84" data-name="Path 84" d="M879.438,1009.236a3.549,3.549,0,1,0-3.55-3.55A3.549,3.549,0,0,0,879.438,1009.236Z" transform="translate(-783.693 -956.44)" fill="#fff"/>
@@ -265,7 +265,7 @@
                 </g>
               </g>
             </svg>
-            <svg class="absolute h-[280px] w-[280px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
+            <svg class="absolute h-[320px] w-[320px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
               <g id="Group_66" data-name="Group 66" transform="translate(-480.383 -247.623)">
                 <path id="Path_145" data-name="Path 145" d="M764.807,264.65l1.519-17.027,6.908.617a9.359,9.359,0,0,1,3.467.972,9.006,9.006,0,0,1,2.7,2.079,8.517,8.517,0,0,1,1.679,2.9,8.222,8.222,0,0,1,.394,3.419,7.944,7.944,0,0,1-.989,3.246,8.475,8.475,0,0,1-2.16,2.517,9.132,9.132,0,0,1-3.021,1.557,9.385,9.385,0,0,1-3.585.342Zm4.513-3.323,2.626.234a4.746,4.746,0,0,0,5.193-4.342,5.007,5.007,0,0,0-.195-1.942,4.685,4.685,0,0,0-.884-1.636,4.94,4.94,0,0,0-1.427-1.169,4.627,4.627,0,0,0-1.828-.543l-2.626-.234Z" transform="translate(14.954)" fill="#ffa9c9"/>
                 <path id="Path_146" data-name="Path 146" d="M790.071,267.56a7.16,7.16,0,0,1-3.378-1.447,6.791,6.791,0,0,1-2.1-2.776,6.7,6.7,0,0,1,1.082-6.714,6.777,6.777,0,0,1,2.868-1.986,7.575,7.575,0,0,1,7.041,1.136,6.772,6.772,0,0,1,2.1,2.787,6.7,6.7,0,0,1-1.081,6.714,6.815,6.815,0,0,1-2.867,1.974A7.153,7.153,0,0,1,790.071,267.56Zm.544-3.375a3.007,3.007,0,0,0,1.661-.178,3.2,3.2,0,0,0,1.3-.99,3.322,3.322,0,0,0,.672-1.561,3.378,3.378,0,0,0-.142-1.718,3.187,3.187,0,0,0-.933-1.35,3.131,3.131,0,0,0-3.158-.509,3.16,3.16,0,0,0-1.309.989,3.366,3.366,0,0,0-.677,1.585,3.313,3.313,0,0,0,.147,1.694,3.174,3.174,0,0,0,.932,1.349A3.027,3.027,0,0,0,790.615,264.186Z" transform="translate(15.97 0.347)" fill="#ffa9c9"/>
@@ -369,38 +369,86 @@
         </div>
       </div>
     </section>
-    <section
-      id="newsletter"
-      class="container mx-auto py-6 mb-12"
-    >
-      <div class="p-6 float-left w-1/3">
-          <h3 class="text-[40px] md:text-[65px] max-w-lg tracking-[1.77px] text-black font-['RedHatDisplay'] font-black leading-[52px] md:leading-[80px] mb-3">
-              <b>Zapisz się na&nbsp;newsletter</b>
-          </h3>
-          <h5 class="text-[22px] font-medium">i bądź na bieżąco z informacjami o wydarzeniach <b>Jubileuszu B60</b></h5>
+    <section id="newsletter">
+      <div class="pl-[60px] md:pl-[340px] pr-[40px] 2xl:pr-[240px] py-16 sm:py-32 mb-12">
+        <div class="md:w-1/3 md:inline-block">
+            <span class="text-[35px] md:text-[46px] min-[1900px]:text-[65px] tracking-[0.88px] sm:tracking-[1.77px] text-black font-black leading-10 smleading-[52px] min-[1900px]:leading-[80px] mb-3">
+                <b>Zapisz się na&nbsp;newsletter</b>
+            </span>
+            <div class="py-5 sm:py-10">
+              <span class="text-[10px] sm:text-[22px] font-medium tracking-[0.2px] sm:tracking-[0.44px]">i bądź na bieżąco z informacjami<br>o&nbsp;wydarzeniach&nbsp;<b>Jubileuszu&nbsp;B60</b></span>
+            </div>
+        </div>
+        <div class="md:inline-block hover:translate-x-2 w-[47px] h-[47px] md:w-[75px] md:h-[75px] min-[1900px]:w-[94px] min-[1900px]:h-[94px]">
+          <a v-on:mouseover="changeArrow('1')" v-on:mouseleave="changeArrow('0')" href="https://docs.google.com/forms/d/e/1FAIpQLSc2LhViumFGjpz4AAjk_qEhn2YjtMOKHlrwmqgyDS5j6VPPxA/viewform">
+            <svg id="Component_35_1" data-name="Component 35 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 94.074 94.074">
+              <path id="Path_498" data-name="Path 498" d="M657.935,257.86A47.037,47.037,0,1,0,704.972,304.9,47.037,47.037,0,0,0,657.935,257.86Zm0,72.874L652.7,325.5l16.9-16.9H635.8a3.7,3.7,0,1,1,0-7.4h33.808l-16.9-16.9,5.232-5.233L683.771,304.9Z" transform="translate(-610.898 -257.86)"/>
+              <path id="arrow" data-name="Path 499" d="M660.764,292.356l16.9,16.9H643.86a3.7,3.7,0,1,0,0,7.4h33.808l-16.9,16.9L666,338.8l25.837-25.836L666,287.123Z" transform="translate(-618.96 -265.922)" fill="#fff" opacity="0"/>
+            </svg>
+          </a>
+        </div>
+        <div class="md:inline-block md:float-right min-[1900px]:pr-0 2xl:w-[400px] 2xl:h-[400px] min-[1900px]:w-[500px] min-[1900px]:h-[500px] py-20 md:py-0">
+          <img class="opacity-100" src="../assets/imgs/news.png" alt="news">
+        </div>    
       </div>
-      <div>
-        <a class="inline-block hover:translate-x-2" href="https://docs.google.com/forms/d/e/1FAIpQLSc2LhViumFGjpz4AAjk_qEhn2YjtMOKHlrwmqgyDS5j6VPPxA/viewform">
-          <img src="../assets/imgs/newsletter_arr.svg" alt="newsletter_arr">
-        </a>
+    <footer id="kontakt" class="text-black">
+    <div class="pl-[60px] pr-[40px] min-[1900px]:pl-[340px] min-[1900px]:pr-[240px] md:pl-[340px] md:pr-[240px]">
+      <div class="w-full flex flex-col md:flex-row py-6">
+        <div id="kontakt-1" class="flex-initial md:w-1/4 min-[1900px]:w-1/4">
+          <p class="mt-2 md:mb-6 font-black">Jubileusz 60-lecia DDA <i>Beczka</i></p>
+          <ul class="list-reset mb-6">
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <a
+                href="mailto:b60@dominikanie.pl"
+                class="no-underline hover:underline "
+                >b60@dominikanie.pl</a
+              >
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <a
+                href="tel:+48124231613"
+                class="no-underline hover:underline "
+                >12 423 16 13 (7:30-15:30)</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="kontakt-2" class="flex-initial w-2/3 md:w-1/2 min-[1900px]:w-1/2">
+          <ul class="list-reset mb-6">
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0 font-extrabold">
+              Dominikańskie Duszpasterstwo Akademickie <i>Beczka</i>
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0 font-medium">
+              Klasztor Ojców Dominikanów<br>ul. Stolarska 12<br>31-043 Kraków
+            </li>
+          </ul>
+        </div>
+        <div id="kontakt-3" class="flex-initial w-2/3 md:w-1/4 min-[1900px]:w-1/4 md:text-right font-bold">
+          <ul class="list-reset mb-6">
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <a
+                href="https://www.facebook.com/DABeczka"
+                class="no-underline hover:underline"
+                >FACEBOOK</a
+              >
+            </li>
+            <li class="mt-2 inline-block mr-2 md:block md:mr-0">
+              <a
+                href="https://www.instagram.com/ddabeczka/"
+                class="no-underline hover:underline"
+                >INSTAGRAM</a
+              >
+            </li>
+            <li id="copyright" class="mt-10 inline-block mr-2 md:block md:mr-0 font-medium text-[12px]">
+              Copyright © B60 2024
+            </li>
+          </ul>
+        </div>
       </div>
-      <div class="float-right">
-        <svg class="w-[220px] h-[220px] md:w-[500px] md:h-[500px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379.378 379.377">
-          <g id="Group_71" data-name="Group 71" transform="translate(120.561 919.905) rotate(45)">
-            <g id="Group_68" data-name="Group 68" transform="translate(-589.224 -711.719)">
-              <path id="Path_244" data-name="Path 244" d="M-467.46-418.725l32.47-52H-345.7L-467.46-711.719-589.224-470.728h89.293Z" transform="translate(589.224 711.719)" fill="#fff"/>
-            </g>
-            <g id="Group_69" data-name="Group 69" transform="translate(-589.224 -711.719)">
-              <path id="Path_245" data-name="Path 245" d="M-429.224-711.719l32.47,240.991h89.294Z" transform="translate(550.987 711.719)" fill="#fff1e3"/>
-              <path id="Path_246" data-name="Path 246" d="M-471.89-470.728l32.47,52V-711.719Z" transform="translate(561.184 711.719)" fill="#fff1e3"/>
-              <path id="Path_247" data-name="Path 247" d="M-589.224-470.728h89.293l32.47-240.991Z" transform="translate(589.224 711.719)" fill="#fff"/>
-              <path id="Path_248" data-name="Path 248" d="M-429.224-418.725l32.47-52-32.47-240.991Z" transform="translate(550.987 711.719)" fill="#fff"/>
-            </g>
-          </g>
-        </svg>
-      </div>
-    </section>
-    <LayoutFooter />
+    </div>
+  </footer>
+</section>
+
   </div>
 </template>
 
@@ -453,6 +501,12 @@ export default Vue.extend({
       var piggy = document.getElementById("piggy");
       if (piggy != null) {
         piggy.style.fill = fillColor;
+      }
+    },
+    changeArrow(opacity: string) {
+      var arrow = document.getElementById("arrow");
+      if (arrow != null) {
+        arrow.style.opacity = opacity;
       }
     }
   },
