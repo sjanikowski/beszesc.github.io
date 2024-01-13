@@ -10,56 +10,7 @@
           Świętuj z nami jej urodziny!
         </div>
       </div>
-      <!-- <svg id="rays" class="absolute m-auto bottom-0 min-h-screen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" viewBox="0 0 1946.486 1068.163">
-        <defs>
-          <clipPath id="clip-path">
-            <rect id="Rectangle_70" data-name="Rectangle 70" width="1946.486" height="1068.163" fill="#FFF1E3" stroke="#ffa9c9" stroke-width="2"/>
-          </clipPath>
-        </defs>
-        <rect id="Rectangle_100" data-name="Rectangle 100" width="1946.486" height="1068.163" fill="#FFF1E3" stroke="#ffa9c9" stroke-width="2"/>
-        <g id="Group_83" data-name="Group 83" transform="translate(-5384.681 -5221.904)">
-          <g id="Group_82" data-name="Group 82" transform="translate(5384.681 5221.904)" clip-path="url(#clip-path)">
-            <line id="Line_1" data-name="Line 1" x1="212.679" y1="1068.162" transform="translate(760.564 0.001)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_2" data-name="Line 2" y1="1068.163" transform="translate(973.243 -0.001)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_3" data-name="Line 3" x1="442.734" y1="1068.157" transform="translate(530.509 0.006)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_4" data-name="Line 4" x2="713.659" y2="1068.158" transform="translate(259.584 0.005)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_5" data-name="Line 5" x1="973.243" y1="968.451" transform="translate(0 99.711)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_6" data-name="Line 6" x2="973.242" y2="650.12" transform="translate(0.001 418.043)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_7" data-name="Line 7" x2="973.244" y2="405.522" transform="translate(-0.001 662.641)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_8" data-name="Line 8" x2="973.241" y2="195.602" transform="translate(0.002 872.56)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_9" data-name="Line 9" y1="1068.162" x2="212.679" transform="translate(973.243 0.001)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_10" data-name="Line 10" y1="1068.163" x2="442.737" transform="translate(973.243 -0.001)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_11" data-name="Line 11" x1="713.661" y2="1068.162" transform="translate(973.243 0.001)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_12" data-name="Line 12" y1="968.451" x2="973.244" transform="translate(973.243 99.711)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_13" data-name="Line 13" x1="973.243" y2="650.118" transform="translate(973.243 418.045)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_14" data-name="Line 14" x1="973.242" y2="405.521" transform="translate(973.243 662.641)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-            <line id="Line_15" data-name="Line 15" x1="973.244" y2="195.604" transform="translate(973.243 872.558)" fill="none" stroke="#ffa9c9" stroke-width="2"/>
-          </g>
-        </g>
-      </svg> -->
-      <svg id="conf" class="absolute w-4/5 m-auto left-0 right-0 top-0 bottom-1/4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1624.106 840.088">
-        <g id="Group_85" data-name="Group 85" transform="translate(131.813 50.581)">
-          <rect id="Rectangle_71" data-name="Rectangle 71" width="33.427" height="5.908" transform="translate(128.855 514.074) rotate(-24.116)" fill="#0071ff"/>
-          <rect id="Rectangle_72" data-name="Rectangle 72" width="5.908" height="33.426" transform="translate(139.925 227.389) rotate(-9)" fill="#0071ff"/>
-          <rect id="Rectangle_73" data-name="Rectangle 73" width="5.909" height="33.427" transform="translate(1345.569 771.557) rotate(-57.52)" fill="#0071ff"/>
-          <rect id="Rectangle_74" data-name="Rectangle 74" width="33.427" height="5.909" transform="translate(1055.552 482.055) rotate(-31.817)" fill="#ffa9c9"/>
-          <rect id="Rectangle_75" data-name="Rectangle 75" width="33.427" height="5.909" transform="translate(847.778 -21.132) rotate(-61.763)" fill="#0071ff"/>
-          <rect id="Rectangle_77" data-name="Rectangle 77" width="5.909" height="33.426" transform="translate(1270.491 278.639) rotate(-60.8)" fill="#0071ff"/>
-          <rect id="Rectangle_78" data-name="Rectangle 78" width="33.427" height="5.908" transform="translate(1463.258 685.127) rotate(-49.804)" fill="#0071ff"/>
-          <rect id="Rectangle_79" data-name="Rectangle 79" width="33.427" height="5.908" transform="translate(1431.954 596.423) rotate(-82.641)" fill="#ffa9c9"/>
-          <rect id="Rectangle_80" data-name="Rectangle 80" width="5.909" height="33.427" transform="translate(-79.742 565.204) rotate(-63.296)" fill="#ffa9c9"/>
-          <rect id="Rectangle_81" data-name="Rectangle 81" width="33.427" height="5.908" transform="matrix(0.473, -0.881, 0.881, 0.473, 274.112, 161.921)" fill="#ffa9c9"/>
-          <rect id="Rectangle_82" data-name="Rectangle 82" width="5.908" height="33.427" transform="translate(1462.779 319.192) rotate(-118)" fill="#ffa9c9"/>
-          <rect id="Rectangle_83" data-name="Rectangle 83" width="5.908" height="33.427" transform="translate(586.856 116.729) rotate(-64)" fill="#ffa9c9"/>
-          <rect id="Rectangle_84" data-name="Rectangle 84" width="5.908" height="33.427" transform="matrix(0.237, -0.972, 0.972, 0.237, 1141.278, 177.628)" fill="#ffa9c9"/>
-          <rect id="Rectangle_85" data-name="Rectangle 85" width="33.427" height="5.908" transform="matrix(0.98, -0.199, 0.199, 0.98, -131.813, 337.922)" fill="#0071ff"/>
-          <rect id="Rectangle_86" data-name="Rectangle 86" width="5.908" height="33.427" transform="matrix(0.743, -0.669, 0.669, 0.743, 1042.174, 392.825)" fill="#0071ff"/>
-          <rect id="Rectangle_87" data-name="Rectangle 87" width="33.427" height="5.909" transform="translate(105.693 436.213) rotate(-80.749)" fill="#ffa9c9"/>
-          <rect id="Rectangle_88" data-name="Rectangle 88" width="33.427" height="5.909" transform="translate(109.159 727.678) rotate(149)" fill="#ffa9c9"/>
-          <rect id="Rectangle_89" data-name="Rectangle 89" width="5.908" height="33.427" transform="translate(395.072 464.432) rotate(-140)" fill="#0071ff"/>
-        </g>
-      </svg>
-      <svg id="hc" class="absolute w-full md:w-1/2 m-auto left-0 right-0 bottom-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
+      <svg id="hc" class="absolute w-full md:w-1/2 m-auto left-0 right-0 bottom-0 scale-y-[1.01]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1074.46 537.23">
         <g id="Group_91" data-name="Group 91" transform="translate(-423 -543.77)">
           <path id="Path_251" data-name="Path 251" d="M2830.178,1821.521c-296.7,0-537.23,240.526-537.23,537.23h1074.46C3367.408,2062.047,3126.883,1821.521,2830.178,1821.521Z" transform="translate(-1869.948 -1277.751)" fill="#ff4b0f"/>
           <g id="Group_13" data-name="Group 13" transform="translate(827 654)">
@@ -81,9 +32,6 @@
         </g>
       </svg>
     </div>
-    <!-- <section id="countdown" class="bg-inherit border-b py-8 text-gray-900">
-      <Countdown />
-    </section> -->
     <section id="idea" class="bg-inherit pt-16 pb-8">
       <div class="container max-w-4xl mx-auto m-8">
         <h2
@@ -91,11 +39,6 @@
         >
           Idea B60
         </h2>
-        <!-- <div data-aos="fade-up" class="w-full mb-4">
-          <div
-            class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
-          ></div>
-        </div> -->
         <div class="p-6 content-center">
           <h3 class="text-[22px] text-black font-['RedHatDisplay'] font-medium leading-10 mb-3 text-center">
               <b>60 lat temu</b> Karol Wojtyła został arcybiskupem krakowskim, wyemitowano pierwszy odcinek <i>Bonanzy</i>, 
@@ -108,77 +51,14 @@
               jest teraz. Świętowanie czas zacząć, nadchodzi <b>B60</b>.
           </h3>
         </div>
-        <!-- <div
-          data-aos="fade-up-left"
-          class="flex flex-wrap flex-col-reverse sm:flex-row"
-        >
-          <div class="w-full sm:w-1/2 p-6 mt-6">
-            <div class="align-middle">
-              <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
-                Lorem ipsum dolor sit amet
-              </h3>
-              <p class="text-gray-600 mb-8">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                at ipsum eu nunc commodo posuere et sit amet ligula.
-                <br />
-              </p>
-            </div>
-          </div>
-        </div> -->
       </div>
     </section>
     <section id="zwiastun" class="py-8">
       <div class="container mx-auto py-16 bg-inherit">
-        <!-- <h2
-          data-aos="fade-up"
-          class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
-        >
-          Zwiastun
-        </h2> -->
-
         <p style="display: flex; justify-content: center;">
-          <iframe width="1024" height="455" style="border-radius: 30px;" src="https://www.youtube.com/embed/Eqg9P4HlJd0?si=MjwRDxzK4IlMU3Ze&player=html5" title="YouTube video player" frameborder="0" 
+          <iframe class="w-[640px] h-[360px] md:w-[960px] md:h-[540px] rounded-3xl" src="https://www.youtube.com/embed/D7GHelwdayE?si=_LPiYnR3H0p1S1KZ&player=html5" title="YouTube video player" frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </p>
-      <!-- <div data-aos="fade-up" class="w-full mb-4">
-          <div
-            class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
-          ></div>
-        </div>
-        <div
-          data-aos="zoom-in-down"
-          v-for="item in 4"
-          :key="item"
-          class="w-full md:w-1/4 p-6 flex flex-col flex-grow flex-shrink"
-        >
-          <div
-            class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow"
-          >
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
-              <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-                John Doe
-              </p>
-              <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Lorem ipsum dolor sit amet.
-              </div>
-              <p class="text-gray-800 text-base px-6 mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                at ipsum eu nunc commodo posuere et sit amet ligula.
-              </p>
-            </a>
-          </div>
-          <div
-            class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6"
-          >
-            <div class="flex items-center justify-start">
-              <button
-                class="mx-auto lg:mx-0 hover:underline gradient text-white font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
-              >
-                Wesprzyj
-              </button>
-            </div>
-          </div>
-        </div>-->
       </div>
     </section>
     <section id="program" class="container max-w-4xl mx-auto text-center py-6 mb-12">
@@ -188,21 +68,172 @@
         >
           Program
         </h2>
-        <!-- <div data-aos="fade-up" class="w-full mb-4">
-          <div
-            class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
-          ></div>
-        </div> -->
         <div class="p-6 content-center">
-          <h3 class="text-[22px] text-black font-bold leading-10 mb-3 text-center">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+          <h3 class="text-[22px] text-black font-medium leading-10 mb-16 text-center">
+            <b><i>Beczka</i> narodziła się jesienią roku 1964.</b> Z okazji okrągłego jubileuszu (60 lat) chcemy przeżyć rok 2024 na radosnym świętowaniu, docenić to, co Beczka przeszła i to, czym jest teraz. 
+            <b>W skrócie nazwaliśmy ten jubileusz „B60”.</b><br><br>
+            W styczniu i maju, zanim <b>zaczniemy świętować na dobre, zapraszamy na przedjubileuszową rozgrzewkę</b> 
+            (czyli kawiarenkę, punkt wymiany informacji i wspomnień o <i>Beczce</i>, a także zbiórkę na organizację Jubileuszu).<br><br>
+            <b>Jesienią 2024 roku rozpoczną się główne obchody B60.</b><br>
+            Zaczniemy 29.09 od Mszy Świętej o 20:20. A co będzie potem? Tort, Bal Jubileuszowy, rekolekcje, dyskusje, premiera filmu dokumentalnego o <i>Beczce</i> i wiele innych okazji do spotkań i świętowania razem z Wami.
           </h3>
         </div>
+        <div class="text-[17px] py-14 tracking-[2.55px] font-medium">
+          PRZEDJUBILEUSZOWA ROZGRZEWKA
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            14.01 Rozpoczynamy odliczanie	
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+        
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            12.05 Już za chwilę
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[17px] pt-32 pb-14 tracking-[2.55px] font-medium">
+          GŁÓWNE OBCHODY JUBILEUSZU
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            29.09 Oficjalne otwarcie obchodów B60
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            30.09 — 5.10 Prologos
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            3.10 Beczka łączy pokolenia
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            6.10 60. urodziny Beczki
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            6.10 — 9.10 Rekolekcje na dobry początek
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            10.10 Trzy okresy życia duchowego
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            11.10 Cztery pory relacji
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            12.10 Kiedyś to było
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            26.10 Wybiła północ
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            25.05 Patrząc w wieczność
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div class="text-[27px] font-medium my-14">
+          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
+            29.06 Uroczyste zakończenie obchodów B60
+          </span>
+        </div>
+        <div class="collapsible-content text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        </div>
+        <div class="border-black border-b-2 h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
       </div>
     </section>
     <section
       id="wsparcie"
-      data-aos="zoom-in-up"
       class="container max-w-4xl mx-auto text-center py-6 mb-12"
     >
       <h2
@@ -211,8 +242,11 @@
         Wsparcie
       </h2>
       <div class="p-6 content-center">
-        <h3 class="text-[22px] text-black font-bold leading-10 mb-3 text-center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+        <h3 class="text-[22px] text-black font-medium leading-10 mb-3 text-center">
+          Organizacja Jubileuszu 60-lecia Dominikańskiego Duszpasterstwa Akademickiego <i>Beczka</i> to duże przedsięwzięcie. 
+          <b>Liczne spotkania z zaproszonymi gośćmi, premiera filmu dokumentalnego, uroczyste przyjęcie urodzinowe, Bal Jubileuszowy, rekolekcje głoszone przez byłych duszpasterzy DDA Beczka, wystawa, koncert, spektakl</b> — to tylko 
+          początek listy inicjatyw, które towarzyszyć będą obchodom Jubileuszu w trakcie całego roku akademickiego. Wszystko, by móc wspólnie się spotkać, powspominać, ucieszyć i poświętować.<br><br>
+          To nie tylko ogromna ilość pracy, ale także niezbędnych do zgromadzenia środków finansowych. <b>Przygotowanie B60 nie będzie możliwe bez Waszego wsparcia i zaangażowania</b>, za które już teraz jesteśmy niezmiernie wdzięczni.
         </h3>
         <div class="container mx-auto relative h-[280px] w-[280px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
           <a href="https://wspieramdabeczka.dominikanie.pl/">
@@ -231,7 +265,7 @@
                 </g>
               </g>
             </svg>
-            <svg class="absolute h-[280px] w-[280px] md:h-[560px] md:w-[560px] hover:rotate-90" id="dorzuc_txt" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
+            <svg class="absolute h-[280px] w-[280px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" data-name="Component 10 – 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.335 563.634">
               <g id="Group_66" data-name="Group 66" transform="translate(-480.383 -247.623)">
                 <path id="Path_145" data-name="Path 145" d="M764.807,264.65l1.519-17.027,6.908.617a9.359,9.359,0,0,1,3.467.972,9.006,9.006,0,0,1,2.7,2.079,8.517,8.517,0,0,1,1.679,2.9,8.222,8.222,0,0,1,.394,3.419,7.944,7.944,0,0,1-.989,3.246,8.475,8.475,0,0,1-2.16,2.517,9.132,9.132,0,0,1-3.021,1.557,9.385,9.385,0,0,1-3.585.342Zm4.513-3.323,2.626.234a4.746,4.746,0,0,0,5.193-4.342,5.007,5.007,0,0,0-.195-1.942,4.685,4.685,0,0,0-.884-1.636,4.94,4.94,0,0,0-1.427-1.169,4.627,4.627,0,0,0-1.828-.543l-2.626-.234Z" transform="translate(14.954)" fill="#ffa9c9"/>
                 <path id="Path_146" data-name="Path 146" d="M790.071,267.56a7.16,7.16,0,0,1-3.378-1.447,6.791,6.791,0,0,1-2.1-2.776,6.7,6.7,0,0,1,1.082-6.714,6.777,6.777,0,0,1,2.868-1.986,7.575,7.575,0,0,1,7.041,1.136,6.772,6.772,0,0,1,2.1,2.787,6.7,6.7,0,0,1-1.081,6.714,6.815,6.815,0,0,1-2.867,1.974A7.153,7.153,0,0,1,790.071,267.56Zm.544-3.375a3.007,3.007,0,0,0,1.661-.178,3.2,3.2,0,0,0,1.3-.99,3.322,3.322,0,0,0,.672-1.561,3.378,3.378,0,0,0-.142-1.718,3.187,3.187,0,0,0-.933-1.35,3.131,3.131,0,0,0-3.158-.509,3.16,3.16,0,0,0-1.309.989,3.366,3.366,0,0,0-.677,1.585,3.313,3.313,0,0,0,.147,1.694,3.174,3.174,0,0,0,.932,1.349A3.027,3.027,0,0,0,790.615,264.186Z" transform="translate(15.97 0.347)" fill="#ffa9c9"/>
@@ -337,15 +371,21 @@
     </section>
     <section
       id="newsletter"
-      class="container h-[500px] relative mx-auto text-center py-6 mb-12"
+      class="container mx-auto py-6 mb-12"
     >
-      <div class="relative p-6 z-20 float-right md:right-[240px]">
-          <h3 class="text-[40px] md:text-[65px] max-w-lg text-black font-['RedHatDisplay'] font-medium leading-[52px] md:leading-[80px] mb-3 text-right">
-              <b>Zapisz się na newsletter</b><br>i bądź na bieżąco
+      <div class="p-6 float-left w-1/3">
+          <h3 class="text-[40px] md:text-[65px] max-w-lg tracking-[1.77px] text-black font-['RedHatDisplay'] font-black leading-[52px] md:leading-[80px] mb-3">
+              <b>Zapisz się na&nbsp;newsletter</b>
           </h3>
+          <h5 class="text-[22px] font-medium">i bądź na bieżąco z informacjami o wydarzeniach <b>Jubileuszu B60</b></h5>
       </div>
-      <div class="absolute z-10 top-[95px] right-[75px] md:top-[120px] md:right-[340px]">
-        <svg class="w-[220px] h-[220px] md:w-[380px] md:h-[380px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379.378 379.377">
+      <div>
+        <a class="inline-block hover:translate-x-2" href="https://docs.google.com/forms/d/e/1FAIpQLSc2LhViumFGjpz4AAjk_qEhn2YjtMOKHlrwmqgyDS5j6VPPxA/viewform">
+          <img src="../assets/imgs/newsletter_arr.svg" alt="newsletter_arr">
+        </a>
+      </div>
+      <div class="float-right">
+        <svg class="w-[220px] h-[220px] md:w-[500px] md:h-[500px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 379.378 379.377">
           <g id="Group_71" data-name="Group 71" transform="translate(120.561 919.905) rotate(45)">
             <g id="Group_68" data-name="Group 68" transform="translate(-589.224 -711.719)">
               <path id="Path_244" data-name="Path 244" d="M-467.46-418.725l32.47-52H-345.7L-467.46-711.719-589.224-470.728h89.293Z" transform="translate(589.224 711.719)" fill="#fff"/>
@@ -380,6 +420,29 @@ export default Vue.extend({
     this.scrollY = window.scrollY - window.innerHeight;
     // Listen to the scroll event to update the scrollY property dynamically
     window.addEventListener("scroll", this.handleScroll);
+
+    var coll = document.getElementsByClassName("collapsible");
+    console.log(coll)
+    const collapsibles = Array.from(coll);
+    collapsibles.forEach(collapsibl => {
+      collapsibl.addEventListener("click", (evt) => {
+        collapsibl.classList.toggle("active-collapsible");
+        if (collapsibl !== null) {
+          var content = collapsibl.parentElement?.nextElementSibling as HTMLElement;
+          console.log(content)
+          if (content != null) {
+            console.log(content.style.maxHeight)
+            if (content.style.maxHeight == "0px" || content.style.maxHeight == ""){
+              content.style.maxHeight = content.scrollHeight + "px";
+              content.classList.add("my-10")
+           } else {
+              content.style.maxHeight = "0";
+              content.classList.remove("my-10")
+            }
+          }
+        }
+      })
+    })
   },
 
   methods: {
@@ -391,7 +454,7 @@ export default Vue.extend({
       if (piggy != null) {
         piggy.style.fill = fillColor;
       }
-    },
+    }
   },
 
   watch: {
@@ -401,8 +464,9 @@ export default Vue.extend({
       var valYprog = document.getElementById("program")?.getBoundingClientRect().y ?? -100;
       var valYwspar = document.getElementById("wsparcie")?.getBoundingClientRect().y ?? -100;
       var valYnews = document.getElementById("newsletter")?.getBoundingClientRect().y ?? -100;
-
-      if (valYnews <= 50) {
+      var copyright = document.getElementById("copyright")?.getBoundingClientRect().y ?? -100;
+      var eop = copyright - window.innerHeight;
+      if (valYnews <= 50 || eop < 0) {
         main?.classList.remove("bg-[#9966FF]");
         main?.classList.add("bg-[#47D141]");
       } else if (valYwspar <= 50) {
@@ -427,9 +491,31 @@ export default Vue.extend({
 
 <style>
 #landing {
-  background-image: url(../assets/imgs/landing_rays_only.svg), url("../assets/imgs/landing_rays.svg");
+  background-image: url("../assets/imgs/conf.svg"), url("../assets/imgs/landing_rays_only.svg"), url("../assets/imgs/landing_rays.svg");
   Background-size: cover;
   Background-position: center;
   Background-attachment:fixed;
+}
+.collapsible:after {
+  content: '\25BC'; /* Unicode character for dropdown */
+  color: black;
+  margin-left: 5px;
+}
+.collapsible:hover:after {
+  color: #0071FF;
+}
+
+.active-collapsible:after {
+  content: "\25B2"; /* Unicode character for "minus" sign (-) */
+  color: #0071FF;
+}
+.active-collapsible {
+  --tw-text-opacity: 1;
+    color: rgb(59 130 246 / var(--tw-text-opacity))
+}
+.collapsible-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
 }
 </style>

@@ -3,7 +3,7 @@
     <div
       class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0"
     >
-      <div id="logo" class="absolute top-[30px] left-[30px] md:top-[60px] md:left-[100px] w-[72px] h-[150px] z-50">
+      <div id="logo" class="absolute top-[30px] left-[30px] md:top-[60px] md:left-[85px] w-[72px] h-[150px] md:w-[90px] md:h-[187px] min-[1900px]:w-[144px] min-[1900px]:h-[300px] z-50">
         <a
           class="no-underline"
           href="#"
@@ -14,7 +14,7 @@
       <div id="insta" class="hidden md:inline-block absolute top-[60px] right-[100px] z-50 opacity-50 hover:opacity-100">
         <a
           class="no-underline"
-          href="#"
+          href="https://www.instagram.com/ddabeczka/"
         >
         <img src="../../assets/imgs/Component_insta.svg" alt="insta">
         </a>
@@ -22,12 +22,12 @@
       <div id="fb" class="hidden md:inline-block absolute top-[130px] right-[100px] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
-          href="#"
+          href="https://www.facebook.com/DABeczka"
         >
         <img src="../../assets/imgs/Component_fb.svg" alt="fb">
         </a>
       </div>
-      <div id="naokr_txt" class="hidden md:inline-block absolute top-[75vh] left-[100px] z-50 rotate-45">
+      <div id="naokr_txt" class="hidden md:inline-block absolute md:top-[70vh] min-[1900px]:top-[82vh] left-[50px] z-50">
         <a
           class="no-underline"
           href="#"
@@ -76,7 +76,7 @@
         </svg>
         </a>
       </div>
-      <div id="naokr" class="hidden md:inline-block absolute top-[75vh] left-[100px] z-50">
+      <div id="naokr" class="hidden md:inline-block absolute md:top-[70vh] min-[1900px]:top-[82vh] left-[50px] z-50">
         <a
           class="no-underline"
           href="#"
@@ -114,44 +114,68 @@
         <ul class="pt-14 list-reset lg:flex justify-center flex-1 items-center">
           <li class="mx-4">
             <a
-              class="inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black hover:underline"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
               href="#idea"
-              >IDEA B60</a
+              >
+              <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
+                IDEA B60
+              </span>
+              </a
             >
           </li>
           <li class="mx-4">
             <a
-              class="inline-block uppercase no-underline font-bold hover:text-black hover:underline py-2 px-4"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
               href="#zwiastun"
-              >ZWIASTUN</a
+              >
+              <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
+                ZWIASTUN
+              </span>
+              </a
             >
           </li>
           <li class="mx-4">
             <a
-              class="inline-block uppercase no-underline font-bold hover:text-black hover:underline py-2 px-4"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
               href="#program"
-              >PROGRAM</a
+              >
+              <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
+                PROGRAM
+              </span>
+              </a
             >
           </li>
           <li class="mx-4">
             <a
-              class="inline-block uppercase no-underline font-bold hover:text-black hover:underline py-2 px-4"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
               href="#wsparcie"
-              >WSPARCIE</a
+              >
+              <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
+                WSPARCIE
+              </span>
+              </a
             >
           </li>
           <li class="mx-4">
             <a
-              class="inline-block uppercase no-underline font-bold hover:text-black hover:underline py-2 px-4"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
               href="#newsletter"
-              >NEWSLETTER</a
+              >
+              <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
+                NEWSLETTER
+              </span>
+              </a
             >
           </li>
           <li class="mx-4">
             <a
-              class="inline-block uppercase no-underline font-bold hover:text-black hover:underline py-2 px-4"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
               href="#kontakt"
-              >KONTAKT</a
+              >
+              <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
+                KONTAKT
+              </span>
+              </a
             >
           </li>
         </ul>
@@ -195,8 +219,9 @@ export default defineComponent({
     scrollY(newValue: number) {
       var naokr_txt = document.getElementById("naokr_txt");
       var naokr = document.getElementById("naokr");
-      if (naokr_txt != undefined) {
+      if (naokr_txt != undefined && naokr != undefined) {
         naokr_txt.style.transform=`rotate(${window.scrollY * 0.1}deg)`
+        naokr.style.transform=`rotate(${window.scrollY * 0.1}deg)`
       }
       if (naokr != undefined) {
         if (newValue > 100) {
@@ -243,5 +268,7 @@ a {
   font-style: normal !important;
   color: rgb(0, 0, 0);
 }
-
+.smoothunderline:hover span:last-child {
+  width: 100%;
+}
 </style>

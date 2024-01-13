@@ -14,9 +14,9 @@
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="tel:+48987654321"
+                href="tel:+48124231613"
                 class="no-underline hover:underline "
-                >+48 987 654 321</a
+                >12 423 16 13 (7:30-15:30)</a
               >
             </li>
           </ul>
@@ -35,19 +35,19 @@
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://www.facebook.com/DABeczka"
                 class="no-underline hover:underline"
                 >FACEBOOK</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="#"
+                href="https://www.instagram.com/ddabeczka/"
                 class="no-underline hover:underline"
                 >INSTAGRAM</a
               >
             </li>
-            <li class="mt-10 inline-block mr-2 md:block md:mr-0 font-medium text-[12px]">
+            <li id="copyright" class="mt-10 inline-block mr-2 md:block md:mr-0 font-medium text-[12px]">
               Copyright © B60 2023
             </li>
           </ul>
