@@ -2,7 +2,15 @@
   <div id="main" class="w-full overflow-hidden leading-tight sm:leading-normal tracking-normal text-black duration-400">
     <LayoutNav />
     <div id="landing" class="w-full h-screen relative font-bold">
-      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-5/6 md:w-1/2 top-[20%] z-[60]">
+      <div id="logoland" class="sm:hidden absolute top-[30px] left-[20px] md:top-[60px] md:left-[85px] w-[72px] h-[150px] md:w-[90px] md:h-[187px] min-[1900px]:w-[144px] min-[1900px]:h-[300px]">
+        <a
+          class="no-underline"
+          href="#"
+        >
+        <img src="../assets/imgs/Logo_strona_B60-03.svg" alt="logo">
+        </a>
+      </div>
+      <div id="landing-txt" class="absolute m-auto left-0 right-0 w-5/6 md:w-1/2 top-[20%] z-10">
         <div id="zero" class="text-[22px] sm:text-[34px] md:text-[40px] sm:text-center font-black py-2 sm:p-2">
           <i>Na początku było zero.</i><br>A dziś <i>Beczka</i> ma już 60 lat.
         </div>
@@ -43,7 +51,7 @@
           <h3 class="text-[11px] sm:text-[22px] text-black font-['RedHatDisplay'] font-medium leading-5 sm:leading-10 mb-3 text-center">
               <b>60 lat temu</b> Karol Wojtyła został arcybiskupem krakowskim, wyemitowano pierwszy odcinek <i>Bonanzy</i>, 
               na Balicach lądował pierwszy samolot, The Beatles wydali swój pierwszy album, <b>w Krakowie powstało 
-              Dominikańskie Duszpasterstwo Akademickie Beczka. 6 dekad</b> - od takiego czasu <i>Beczka</i> towarzyszy 
+              Dominikańskie Duszpasterstwo Akademickie <i>Beczka</i>. 6 dekad</b> - od takiego czasu <i>Beczka</i> towarzyszy 
               życiu kolejnych pokoleń <b>studentów i ich duszpasterzy</b>. Niektórzy byli tu na chwilę, inni 
               zostali na lata, kształtując siebie, ale też wpływając na kształt samej <i>Beczki</i>. Był to ważny 
               czas, czas przemian, przyjaźni, budowania wartości. Z okazji okrągłego jubileuszu chcemy przeżyć 
@@ -70,7 +78,7 @@
         </h2>
         <div class="p-6 content-center">
           <h3 class="text-[11px] sm:text-[22px] text-black font-medium leading-5  sm:leading-10 mb-8 sm:mb-16 text-center">
-            <b><i>Beczka</i> narodziła się jesienią roku 1964.</b> Z okazji okrągłego jubileuszu (60 lat) chcemy przeżyć rok 2024 na radosnym świętowaniu, docenić to, co Beczka przeszła i to, czym jest teraz. 
+            <b><i>Beczka</i> narodziła się jesienią roku 1964.</b> Z okazji okrągłego jubileuszu (60 lat) chcemy przeżyć rok 2024 na radosnym świętowaniu, docenić to, co <i>Beczka</i> przeszła i to, czym jest teraz. 
             <b>W skrócie nazwaliśmy ten jubileusz „B60”.</b><br><br>
             W styczniu i maju, zanim <b>zaczniemy świętować na dobre, zapraszamy na przedjubileuszową rozgrzewkę</b> 
             (czyli kawiarenkę, punkt wymiany informacji i wspomnień o <i>Beczce</i>, a także zbiórkę na organizację Jubileuszu).<br><br>
@@ -88,8 +96,10 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 22:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na pierwsze wydarzenie w jubileuszowym roku 2024, będące rozgrzewką przed jesiennym świętowaniem. Od 9:00 do 22:00 zapraszamy do kapitularza klasztoru oo. Dominikanów na rozgrzewającą herbatę, kawę i coś słodkiego. 
+            <br>Wspólnie spędźmy czas przy ciastku ze słynnym beczkowym twarogiem i marmoladą. Jednocześnie prowadzić będziemy zbiórkę środków finansowych na organizację wydarzeń Jubileuszu B60.
+            <br>Na miejscu będzie dostępny “Beczkowy dziennik”, czyli punkt wymiany informacji, w którym można zostawić własne wspomnienia o Beczce oraz dowiedzieć się więcej o Jubileuszu.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
         
@@ -99,12 +109,14 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 22:00<br>Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na drugą, majową, odsłonę przedjubileuszowej rozgrzewki. Od 9:00 do 22:00 zapraszamy do kapitularza klasztoru oo. Dominikanów na rozgrzewającą herbatę, kawę i coś słodkiego. 
+            <br>Wspólnie spędźmy czas przy ciastku ze słynnym beczkowym twarogiem i marmoladą. Jednocześnie prowadzić będziemy zbiórkę środków finansowych na organizację wydarzeń Jubileuszu B60.
+            <br>Na miejscu będzie dostępny “Beczkowy dziennik”, czyli punkt wymiany informacji, w którym można zostawić własne wspomnienia o Beczce oraz dowiedzieć się więcej o Jubileuszu.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[9px]  sm:text-[17px] pt-32 pb-14 tracking-[1.2px] sm:tracking-[2.55px] font-medium">
+        <div class="text-[9px]  sm:text-[17px] pt-16 sm:pt-32 pb-7 sm:pb-14 tracking-[1.2px] sm:tracking-[2.55px] font-medium">
           GŁÓWNE OBCHODY JUBILEUSZU
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
@@ -115,8 +127,9 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika — Krużganki</div>
+          <div class="w-3/4 float-right text-left px-5">O 20:20 rozpocznie się uroczysta Msza Święta otwierająca Jubileusz 60-lecia założenia DDA Beczka.
+            <br>Po Mszy, na krużgankach, odbędzie się wernisaż wystawy poświęconej Beczce na przestrzeni lat. To niezwykła okazja do powspominania wydarzeń z historii naszego Duszpasterstwa.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -126,8 +139,9 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">---</div>
+          <div class="w-3/4 float-right text-left px-5">Niezwykły i wyjątkowy tydzień dedykowany przede wszystkim tym, którzy zaczynają studia i chcą bliżej poznać świat Beczki. W tym roku zapraszamy na Prologos w wyjątkowej, jubileuszowej odsłonie, w której nie zabraknie ciekawych spotkań i interesujących historii.
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -137,8 +151,10 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Aula św. Tomasza z Akwinu</div>
+          <div class="w-3/4 float-right text-left px-5">Międzypokoleniowe spotkanie dyskusyjne z dawnymi i obecnymi Beczkowiczami. Doświadczenia dotyczące studiowania, życia w Polsce i Krakowie, beczkowej codzienności potrafią być podobne, niezależnie od dekady, w której przyszło nam studiować. Są też takie wspomnienia, które bywają unikalne tylko dla jednego pokolenia. 
+            <br>W ten wieczór naszymi rozmówcami będą przedstawiciele wielu pokoleń Beczkowiczów - zobaczmy jak różne refleksje łączy jedna Beczka.
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -148,8 +164,8 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00<br>Bazylika — Kapitularz</div>
+          <div class="w-3/4 float-right text-left px-5">To już 60 urodziny! Czujcie się zaproszeni. Zaczynamy Mszą Świętą o godzinie 9:00, która przez wiele lat była Mszą akademicką, a po niej - wiedzeni zapachem słodyczy - udamy się na krużganki na beczkowe przyjęcie urodzinowe. 60 urodziny nie mogą się przecież obyć bez tortu!</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -159,8 +175,11 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika</div>
+          <div class="w-3/4 float-right text-left px-5">To już tradycja, że rok akademicki rozpoczynamy rekolekcjami. W 2024 roku będą one wyjątkowe, bo głoszone przez liczną grupę byłych duszpasterzy Beczki.
+            <br>Zapraszamy w niedzielę 6.10 na “Dwudziestki” rozpoczynające rekolekcje. A po Mszy odbędzie się nocne zwiedzanie Bazyliki. 
+            <br>Zaś 7-9.10 (od poniedziałku do środy) Msze rekolekcyjne wystartują o 19:30. Po nich będą konferencje, a po konferencjach - agapy i spotkania.
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -170,8 +189,8 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Aula św. Tomasza z Akwinu</div>
+          <div class="w-3/4 float-right text-left px-5">Beczka jest i była miejscem kształtowania osobowości i planowania swojej przyszłości. Dla niektórych studentów był to też wyjątkowy czas odkrywania swojego powołania do życia zakonnego i kapłańskiego. Zapraszamy na spotkanie dyskusyjne z tymi, których powołanie zaczęło się w Beczce. </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -181,8 +200,11 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Aula św. Tomasza z Akwinu</div>
+          <div class="w-3/4 float-right text-left px-5">Miłość może się narodzić w różnych okolicznościach, też w duszpasterstwie. Przez 60 lat Beczka połączyła wiele serc. 
+            <br>Zapraszamy na spotkanie dyskusyjne z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: ci małżonkowie poznali się w Beczce. 
+            <br>Jak wygląda wspólne życie z perspektywy niedawnego zawarcia ślubu, a jak z perspektywy wielu lat spędzonych razem? Jak razem przechodzi się przez doświadczenia, radości i trudy? Przybądź, by się dowiedzieć.
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -192,8 +214,11 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Multikino Kraków</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA Beczka, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
+            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
+            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -203,8 +228,10 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">19:30 — 4:00<br>Restauracja Vinnica</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy dawnych i obecnych Beczkowiczów wraz z osobami towarzyszącymi do wspólnej zabawy do białego rana (a dokładnie od 19:30 do 4:00) w Restauracji Vinnica, w Sygneczowie koło Wieliczki. 
+            <br>Wydarzenie jest biletowane, a liczba biletów ograniczona. O sprzedaży biletów będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -214,8 +241,10 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika — Beczka</div>
+          <div class="w-3/4 float-right text-left px-5">W rocznicę śmierci założyciela Beczki, ojca Tomasza Pawłowskiego OP, zapraszamy na Mszę Świętą w jego intencji o godzinie 19:30. 
+            <br>W tym roku szczególnie dziękujemy za ogrom dobra, którego - dzięki Jego pracy duszpasterskiej - doświadczyło wiele pokoleń krakowskich studentów. Modlimy się też o kolejne owoce działalności DDA Beczka, które staną się udziałem obecnych i następnych pokoleń Beczkowiczów.
+            <br>Po Mszy zapraszamy na agapę do pomieszczeń Beczki.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -225,8 +254,9 @@
           </span>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 18:00<br>Kapitularz</div>
-          <div class="w-3/4 float-right text-left px-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na ostatnie wydarzenie pod szyldem B60, czyli uroczyste zakończenie obchodów Jubileuszu 60-lat DDA Beczka. Bądźcie tego dnia z nami na akademickiej Mszy Świętej o 20:20!
+</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -242,9 +272,9 @@
         Wsparcie
       </h2>
       <div class="p-6 content-center">
-        <h3 class="text-[11px] sm:text-[22px] text-black font-medium leading-5  sm:leading-10 mb-3 text-center">
+        <h3 class="text-[11px] sm:text-[22px] text-black font-medium leading-5  sm:leading-10 mb-10 sm:mb-28 text-center">
           Organizacja Jubileuszu 60-lecia Dominikańskiego Duszpasterstwa Akademickiego <i>Beczka</i> to duże przedsięwzięcie. 
-          <b>Liczne spotkania z zaproszonymi gośćmi, premiera filmu dokumentalnego, uroczyste przyjęcie urodzinowe, Bal Jubileuszowy, rekolekcje głoszone przez byłych duszpasterzy DDA Beczka, wystawa, koncert, spektakl</b> — to tylko 
+          <b>Liczne spotkania z zaproszonymi gośćmi, premiera filmu dokumentalnego, uroczyste przyjęcie urodzinowe, Bal Jubileuszowy, rekolekcje głoszone przez byłych duszpasterzy DDA <i>Beczka</i>, wystawa, koncert, spektakl</b> — to tylko 
           początek listy inicjatyw, które towarzyszyć będą obchodom Jubileuszu w trakcie całego roku akademickiego. Wszystko, by móc wspólnie się spotkać, powspominać, ucieszyć i poświętować.<br><br>
           To nie tylko ogromna ilość pracy, ale także niezbędnych do zgromadzenia środków finansowych. <b>Przygotowanie B60 nie będzie możliwe bez Waszego wsparcia i zaangażowania</b>, za które już teraz jesteśmy niezmiernie wdzięczni.
         </h3>
@@ -396,7 +426,7 @@
       <div class="w-full flex flex-col md:flex-row py-6">
         <div id="kontakt-1" class="flex-initial md:w-1/4 min-[1900px]:w-1/4">
           <p class="mt-2 md:mb-6 font-black">Jubileusz 60-lecia DDA <i>Beczka</i></p>
-          <ul class="list-reset mb-6">
+          <ul class="list-reset mb-6 font-bold">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
                 href="mailto:b60@dominikanie.pl"
@@ -470,22 +500,19 @@ export default Vue.extend({
     window.addEventListener("scroll", this.handleScroll);
 
     var coll = document.getElementsByClassName("collapsible");
-    console.log(coll)
     const collapsibles = Array.from(coll);
     collapsibles.forEach(collapsibl => {
       collapsibl.addEventListener("click", (evt) => {
         collapsibl.classList.toggle("active-collapsible");
         if (collapsibl !== null) {
           var content = collapsibl.parentElement?.nextElementSibling as HTMLElement;
-          console.log(content)
           if (content != null) {
-            console.log(content.style.maxHeight)
             if (content.style.maxHeight == "0px" || content.style.maxHeight == ""){
               content.style.maxHeight = content.scrollHeight + "px";
-              content.classList.add("my-10")
+              content.classList.add("my-7")
            } else {
               content.style.maxHeight = "0";
-              content.classList.remove("my-10")
+              content.classList.remove("my-7")
             }
           }
         }

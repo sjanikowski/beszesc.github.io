@@ -3,7 +3,7 @@
     <div
       class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0"
     >
-      <div id="logo" class="absolute top-[30px] left-[30px] md:top-[60px] md:left-[85px] w-[72px] h-[150px] md:w-[90px] md:h-[187px] min-[1900px]:w-[144px] min-[1900px]:h-[300px] z-50">
+      <div id="logo" class="hidden sm:inline-block absolute top-[30px] left-[30px] md:top-[60px] md:left-[85px] w-[72px] h-[150px] md:w-[90px] md:h-[187px] min-[1900px]:w-[144px] min-[1900px]:h-[300px] z-50">
         <a
           class="no-underline"
           href="#"
@@ -90,31 +90,75 @@
         </svg>
         </a>
       </div>
-      <div class="absolute top-[30px] right-[30px] lg:hidden pr-4 z-[200]">
+      <div 
+      :class="mobileSidebar ? 'hidden' : ''"
+      class="absolute top-[30px] right-[20px] lg:hidden z-[220]">
         <button
           @click="mobileSidebar = !mobileSidebar"
           id="nav-toggle"
-          class="flex items-center p-1 text-black hover:text-gray-900 focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+          class="flex items-center p-1 text-black focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
         >
-          <svg
-            class="fill-current h-6 w-6"
-            viewBox="0 0 20 20"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <title>Menu</title>
-            <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
-          </svg>
+        <svg class="h-[30px] w-[30px]" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="#000000">
+          <title>Menu</title>
+          <path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+        </svg>
         </button>
       </div>
-      <div
+
+      <div 
         :class="mobileSidebar ? '' : 'hidden'"
-        class="w-full flex-grow lg:flex lg:items-center lg:w-auto mt-2 lg:mt-0 bg-inherit lg:bg-transparent text-black p-4 lg:p-0 z-20"
+        class="absolute top-[30px] right-[20px] lg:hidden z-[220]">
+          <button
+            @click="mobileSidebar = !mobileSidebar"
+            id="nav-toggle2"
+            class="flex items-center p-1 text-black focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
+          >
+        <svg class="h-[30px] w-[30px]" fill="#000000" version="1.1" id="crossx" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+          viewBox="0 0 460.775 460.775" xml:space="preserve">
+          <path d="M285.08,230.397L456.218,59.27c6.076-6.077,6.076-15.911,0-21.986L423.511,4.565c-2.913-2.911-6.866-4.55-10.992-4.55
+            c-4.127,0-8.08,1.639-10.993,4.55l-171.138,171.14L59.25,4.565c-2.913-2.911-6.866-4.55-10.993-4.55
+            c-4.126,0-8.08,1.639-10.992,4.55L4.558,37.284c-6.077,6.075-6.077,15.909,0,21.986l171.138,171.128L4.575,401.505
+            c-6.074,6.077-6.074,15.911,0,21.986l32.709,32.719c2.911,2.911,6.865,4.55,10.992,4.55c4.127,0,8.08-1.639,10.994-4.55
+            l171.117-171.12l171.118,171.12c2.913,2.911,6.866,4.55,10.993,4.55c4.128,0,8.081-1.639,10.992-4.55l32.709-32.719
+            c6.074-6.075,6.074-15.909,0-21.986L285.08,230.397z"/>
+        </svg>
+        </button>
+      </div>
+
+      <div
+        :class="mobileSidebar ? 'min-h-screen' : 'max-lg:-translate-y-full min-h-0'"
+        class="w-full flex-grow lg:flex lg:items-center lg:w-auto bg-[#FFF1E3] lg:bg-transparent text-black p-4 lg:p-0 z-[200]
+        font-black lg:font-bold max-sm:absolute max-sm:top-0"
         id="nav-content"
       >
-        <ul class="pt-14 list-reset lg:flex justify-center flex-1 items-center">
-          <li class="mx-4">
-            <a
-              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
+      <div id="mobilemenulogo" @click="mobileSidebar = false" class="inline-block sm:hidden absolute top-[30px] left-[20px] w-[72px] h-[150px] z-50">
+        <a
+          class="no-underline"
+          href="#"
+        >
+        <img src="../../assets/imgs/Logo_strona_B60-03.svg" alt="logo">
+        </a>
+      </div>
+      <div id="mobilemenuinsta" @click="mobileSidebar = false" class="inline-block sm:hidden absolute bottom-[50px] right-[120px] z-50 opacity-50 hover:opacity-100">
+        <a
+          class="no-underline"
+          href="https://www.instagram.com/ddabeczka/"
+        >
+        <img src="../../assets/imgs/Component_insta.svg" alt="insta">
+        </a>
+      </div>
+      <div id="mobilemenufb" @click="mobileSidebar = false" class="inline-block sm:hidden absolute bottom-[50px] right-[50px] opacity-50 hover:opacity-100">
+        <a
+          class="no-underline"
+          href="https://www.facebook.com/DABeczka"
+        >
+        <img src="../../assets/imgs/Component_fb.svg" alt="fb">
+        </a>
+      </div>
+        <ul class="pt-24 sm:pt-14 list-reset lg:flex justify-center flex-1 text-right sm:items-center">
+          <li class="mx-4 py-2 sm:py-0">
+            <a @click="mobileSidebar = false"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 no-underline hover:text-black"
               href="#idea"
               >
               <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
@@ -123,9 +167,9 @@
               </a
             >
           </li>
-          <li class="mx-4">
-            <a
-              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
+          <li class="mx-4 py-2 sm:py-0">
+            <a @click="mobileSidebar = false"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 no-underline hover:text-black"
               href="#zwiastun"
               >
               <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
@@ -134,9 +178,9 @@
               </a
             >
           </li>
-          <li class="mx-4">
-            <a
-              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
+          <li class="mx-4 py-2 sm:py-0">
+            <a @click="mobileSidebar = false"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 no-underline hover:text-black"
               href="#program"
               >
               <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
@@ -145,9 +189,9 @@
               </a
             >
           </li>
-          <li class="mx-4">
-            <a
-              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
+          <li class="mx-4 py-2 sm:py-0">
+            <a @click="mobileSidebar = false"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 no-underline hover:text-black"
               href="#wsparcie"
               >
               <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
@@ -156,9 +200,9 @@
               </a
             >
           </li>
-          <li class="mx-4">
-            <a
-              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
+          <li class="mx-4 py-2 sm:py-0">
+            <a @click="mobileSidebar = false"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 no-underline hover:text-black"
               href="#newsletter"
               >
               <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
@@ -167,9 +211,9 @@
               </a
             >
           </li>
-          <li class="mx-4">
-            <a
-              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 font-bold no-underline hover:text-black"
+          <li class="mx-4 py-2 sm:py-0">
+            <a @click="mobileSidebar = false"
+              class="group transition-all duration-300 ease-in-out inline-block uppercase py-2 px-4 no-underline hover:text-black"
               href="#kontakt"
               >
               <span class='bg-left-bottom bg-gradient-to-r from-black to-black bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out tracking-[2.55px] pb-2'> 
@@ -179,12 +223,6 @@
             >
           </li>
         </ul>
-        <!-- <button
-          id="navAction"
-          class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full mt-4 lg:mt-0 py-4 px-8 shadow opacity-75 focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out"
-        >
-          Action
-        </button> -->
       </div>
     </div>
     <!-- <hr class="border-b border-gray-100 opacity-25 my-0 py-0" /> -->
@@ -263,11 +301,6 @@ export default defineComponent({
 </script>
 
 <style>
-a {
-  font-weight: 600;
-  font-style: normal !important;
-  color: rgb(0, 0, 0);
-}
 .smoothunderline:hover span:last-child {
   width: 100%;
 }
