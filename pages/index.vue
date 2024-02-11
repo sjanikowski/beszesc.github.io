@@ -90,26 +90,32 @@
           PRZEDJUBILEUSZOWA ROZGRZEWKA
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            14.01 Rozpoczynamy odliczanie	
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">14.01</span>
+            <span class="font-['Chonburi'] duration-0">
+               Rozpoczynamy odliczanie
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 22:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Zapraszamy na pierwsze wydarzenie w jubileuszowym roku 2024, będące rozgrzewką przed jesiennym świętowaniem. Od 9:00 do 22:00 zapraszamy do kapitularza klasztoru oo. Dominikanów na rozgrzewającą herbatę, kawę i coś słodkiego. 
             <br>Wspólnie spędźmy czas przy ciastku ze słynnym beczkowym twarogiem i marmoladą. Jednocześnie prowadzić będziemy zbiórkę środków finansowych na organizację wydarzeń Jubileuszu B60.
-            <br>Na miejscu będzie dostępny “Beczkowy dziennik”, czyli punkt wymiany informacji, w którym można zostawić własne wspomnienia o Beczce oraz dowiedzieć się więcej o Jubileuszu.</div>
+            <br>Na miejscu będzie dostępny “Beczkowy dziennik”, czyli punkt wymiany informacji, w którym można zostawić własne wspomnienia o <i>Beczce</i> oraz dowiedzieć się więcej o Jubileuszu.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
         
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            12.05 Już za chwilę
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">12.05</span>
+            <span class="font-['Chonburi'] duration-0">
+              Już za chwilę
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 22:00<br>Kapitularz</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 — 22:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Zapraszamy na drugą, majową, odsłonę przedjubileuszowej rozgrzewki. Od 9:00 do 22:00 zapraszamy do kapitularza klasztoru oo. Dominikanów na rozgrzewającą herbatę, kawę i coś słodkiego. 
             <br>Wspólnie spędźmy czas przy ciastku ze słynnym beczkowym twarogiem i marmoladą. Jednocześnie prowadzić będziemy zbiórkę środków finansowych na organizację wydarzeń Jubileuszu B60.
             <br>Na miejscu będzie dostępny “Beczkowy dziennik”, czyli punkt wymiany informacji, w którym można zostawić własne wspomnienia o Beczce oraz dowiedzieć się więcej o Jubileuszu.</div>
@@ -121,47 +127,59 @@
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            29.09 Oficjalne otwarcie obchodów B60
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">29.09</span>
+            <span class="font-['Chonburi'] duration-0">
+              Oficjalne otwarcie obchodów B60
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika — Krużganki</div>
-          <div class="w-3/4 float-right text-left px-5">O 20:20 rozpocznie się uroczysta Msza Święta otwierająca Jubileusz 60-lecia założenia DDA Beczka.
-            <br>Po Mszy, na krużgankach, odbędzie się wernisaż wystawy poświęconej Beczce na przestrzeni lat. To niezwykła okazja do powspominania wydarzeń z historii naszego Duszpasterstwa.</div>
+          <div class="w-3/4 float-right text-left px-5">O 20:20 rozpocznie się uroczysta Msza Święta otwierająca Jubileusz 60-lecia założenia DDA <i>Beczka</i>.
+            <br>Po Mszy, na krużgankach, odbędzie się wernisaż wystawy poświęconej <i>Beczce</i> na przestrzeni lat. To niezwykła okazja do powspominania wydarzeń z historii naszego Duszpasterstwa.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            30.09 — 5.10 Prologos
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">30.09 — 5.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Prologos
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">---</div>
-          <div class="w-3/4 float-right text-left px-5">Niezwykły i wyjątkowy tydzień dedykowany przede wszystkim tym, którzy zaczynają studia i chcą bliżej poznać świat Beczki. W tym roku zapraszamy na Prologos w wyjątkowej, jubileuszowej odsłonie, w której nie zabraknie ciekawych spotkań i interesujących historii.
-</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">—</div>
+          <div class="w-3/4 float-right text-left px-5">Niezwykły i wyjątkowy tydzień dedykowany przede wszystkim tym, którzy zaczynają studia i chcą bliżej poznać świat <i>Beczki</i>. W tym roku zapraszamy na Prologos w wyjątkowej, jubileuszowej odsłonie, w której nie zabraknie ciekawych spotkań i interesujących historii.
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            3.10 Beczka łączy pokolenia
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">3.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Beczka łączy pokolenia
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Aula św. Tomasza z Akwinu</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z Akwinu</div>
           <div class="w-3/4 float-right text-left px-5">Międzypokoleniowe spotkanie dyskusyjne z dawnymi i obecnymi Beczkowiczami. Doświadczenia dotyczące studiowania, życia w Polsce i Krakowie, beczkowej codzienności potrafią być podobne, niezależnie od dekady, w której przyszło nam studiować. Są też takie wspomnienia, które bywają unikalne tylko dla jednego pokolenia. 
-            <br>W ten wieczór naszymi rozmówcami będą przedstawiciele wielu pokoleń Beczkowiczów - zobaczmy jak różne refleksje łączy jedna Beczka.
-</div>
+            <br>W ten wieczór naszymi rozmówcami będą przedstawiciele wielu pokoleń Beczkowiczów - zobaczmy jak różne refleksje łączy jedna <i>Beczka</i>.
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            6.10 60. urodziny Beczki
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">6.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              60. urodziny Beczki
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00<br>Bazylika — Kapitularz</div>
@@ -169,96 +187,141 @@
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            6.10 — 9.10 Rekolekcje na dobry początek
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">6.10 — 9.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Rekolekcje na dobry początek
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika</div>
-          <div class="w-3/4 float-right text-left px-5">To już tradycja, że rok akademicki rozpoczynamy rekolekcjami. W 2024 roku będą one wyjątkowe, bo głoszone przez liczną grupę byłych duszpasterzy Beczki.
+          <div class="w-3/4 float-right text-left px-5">To już tradycja, że rok akademicki rozpoczynamy rekolekcjami. W 2024 roku będą one wyjątkowe, bo głoszone przez liczną grupę byłych duszpasterzy <i>Beczki</i>.
             <br>Zapraszamy w niedzielę 6.10 na “Dwudziestki” rozpoczynające rekolekcje. A po Mszy odbędzie się nocne zwiedzanie Bazyliki. 
             <br>Zaś 7-9.10 (od poniedziałku do środy) Msze rekolekcyjne wystartują o 19:30. Po nich będą konferencje, a po konferencjach - agapy i spotkania.
 </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            10.10 Trzy okresy życia duchowego
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">10.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Trzy okresy życia duchowego
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Aula św. Tomasza z Akwinu</div>
-          <div class="w-3/4 float-right text-left px-5">Beczka jest i była miejscem kształtowania osobowości i planowania swojej przyszłości. Dla niektórych studentów był to też wyjątkowy czas odkrywania swojego powołania do życia zakonnego i kapłańskiego. Zapraszamy na spotkanie dyskusyjne z tymi, których powołanie zaczęło się w Beczce. </div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z Akwinu</div>
+          <div class="w-3/4 float-right text-left px-5"><i>Beczka</i> jest i była miejscem kształtowania osobowości i planowania swojej przyszłości. Dla niektórych studentów był to też wyjątkowy czas odkrywania swojego powołania do życia zakonnego i kapłańskiego. Zapraszamy na spotkanie dyskusyjne z tymi, których powołanie zaczęło się w <i>Beczce</i>. </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            11.10 Cztery pory relacji
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">11.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Cztery pory relacji
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Aula św. Tomasza z Akwinu</div>
-          <div class="w-3/4 float-right text-left px-5">Miłość może się narodzić w różnych okolicznościach, też w duszpasterstwie. Przez 60 lat Beczka połączyła wiele serc. 
-            <br>Zapraszamy na spotkanie dyskusyjne z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: ci małżonkowie poznali się w Beczce. 
+          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z Akwinu</div>
+          <div class="w-3/4 float-right text-left px-5">Miłość może się narodzić w różnych okolicznościach, też w duszpasterstwie. Przez 60 lat <i>Beczka</i> połączyła wiele serc. 
+            <br>Zapraszamy na spotkanie dyskusyjne z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: ci małżonkowie poznali się w <i>Beczce</i>. 
             <br>Jak wygląda wspólne życie z perspektywy niedawnego zawarcia ślubu, a jak z perspektywy wielu lat spędzonych razem? Jak razem przechodzi się przez doświadczenia, radości i trudy? Przybądź, by się dowiedzieć.
-</div>
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            12.10 Kiedyś to było
-          </span>
-        </div>
-        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">---<br>Multikino Kraków</div>
-          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA Beczka, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
-            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
-            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
-</div>
-        </div>
-        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
-
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            26.10 Wybiła północ
-          </span>
-        </div>
+        <div>
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">26.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Wybiła północ
+            </span>
+          </div>
+          <div class="inline-block relative w-1">
+            <svg class="absolute inline-block -translate-y-[14px] translate-x-[18px] sm:-translate-y-[22px] sm:translate-x-[26px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
+              <g id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
+                <path id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
+              </g>
+            </svg>
+          </div>  
+        </div>      
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">19:30 — 4:00<br>Restauracja Vinnica</div>
-          <div class="w-3/4 float-right text-left px-5">Zapraszamy dawnych i obecnych Beczkowiczów wraz z osobami towarzyszącymi do wspólnej zabawy do białego rana (a dokładnie od 19:30 do 4:00) w Restauracji Vinnica, w Sygneczowie koło Wieliczki. 
-            <br>Wydarzenie jest biletowane, a liczba biletów ograniczona. O sprzedaży biletów będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
-</div>
+          <div class="w-3/4 float-right text-left px-5">
+            <span>Zapraszamy dawnych i obecnych Beczkowiczów wraz z osobami towarzyszącymi do wspólnej zabawy do białego rana (a dokładnie od 19:30 do 4:00) w Restauracji Vinnica, w Sygneczowie koło Wieliczki. 
+              <br>Wydarzenie jest biletowane, a liczba biletów ograniczona.
+            </span>
+            <div class="my-4 font-bold hover:text-black">
+              <a href="https://forms.gle/CXPKwNMmYKia14EL8">Formularz z zapisami</a>
+            </div>
+            <div class="my-4 font-bold hover:text-black">
+              <a href="https://drive.google.com/file/d/1azvoYqMLJcTozpN4aTTkHZynjWEVFVPQ/view?usp=drive_link">Regulamin Balu</a>
+            </div>
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            25.05 Patrząc w wieczność
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">25.05</span>
+            <span class="font-['Chonburi'] duration-0">
+              Patrząc w wieczność
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika — Beczka</div>
-          <div class="w-3/4 float-right text-left px-5">W rocznicę śmierci założyciela Beczki, ojca Tomasza Pawłowskiego OP, zapraszamy na Mszę Świętą w jego intencji o godzinie 19:30. 
-            <br>W tym roku szczególnie dziękujemy za ogrom dobra, którego - dzięki Jego pracy duszpasterskiej - doświadczyło wiele pokoleń krakowskich studentów. Modlimy się też o kolejne owoce działalności DDA Beczka, które staną się udziałem obecnych i następnych pokoleń Beczkowiczów.
-            <br>Po Mszy zapraszamy na agapę do pomieszczeń Beczki.</div>
+          <div class="w-3/4 float-right text-left px-5">W rocznicę śmierci założyciela <i>Beczki</i>, ojca Tomasza Pawłowskiego OP, zapraszamy na Mszę Świętą w jego intencji o godzinie 19:30. 
+            <br>W tym roku szczególnie dziękujemy za ogrom dobra, którego - dzięki jego pracy duszpasterskiej - doświadczyło wiele pokoleń krakowskich studentów. Modlimy się też o kolejne owoce działalności DDA <i>Beczka</i>, które staną się udziałem obecnych i następnych pokoleń Beczkowiczów.
+            <br>Po Mszy zapraszamy na agapę do pomieszczeń <i>Beczki</i>.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div class="text-[14px] sm:text-[25px] font-medium my-7 sm:my-14">
-          <span class="collapsible cursor-pointer font-['Chonburi'] duration-0 hover:text-[#0071FF]">
-            29.06 Uroczyste zakończenie obchodów B60
-          </span>
+        <div>
+          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">29.06</span>
+            <span class="font-['Chonburi'] duration-0">
+              Uroczyste zakończenie obchodów B60
+            </span>
+          </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika</div>
-          <div class="w-3/4 float-right text-left px-5">Zapraszamy na ostatnie wydarzenie pod szyldem B60, czyli uroczyste zakończenie obchodów Jubileuszu 60-lat DDA Beczka. Bądźcie tego dnia z nami na akademickiej Mszy Świętej o 20:20!
-</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na ostatnie wydarzenie pod szyldem B60, czyli uroczyste zakończenie obchodów Jubileuszu 60-lat DDA <i>Beczka</i>. Bądźcie tego dnia z nami na akademickiej Mszy Świętej o 20:20!
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div>
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">24.05.2025</span>
+            <span class="font-['Chonburi'] duration-0">
+              Kiedyś to było
+            </span>
+          </div>
+          <div class="inline-block relative w-1">
+            <svg class="absolute inline-block -translate-y-[14px] translate-x-[18px] sm:-translate-y-[22px] sm:translate-x-[26px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
+              <g id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
+                <path id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
+              </g>
+            </svg>
+          </div>  
+        </div>
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">Multikino Kraków</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA <i>Beczka</i>, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
+            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
+            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
+          </div>
+        </div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <img class="opacity-100 pl-4 pt-10 sm:pt-20" src="../assets/imgs/biletowane.svg" alt="biletowane">
 
       </div>
     </section>
@@ -402,7 +465,7 @@
     <section id="newsletter">
       <div class="pl-[60px] md:pl-[340px] pr-[40px] 2xl:pr-[240px] py-16 sm:py-32 mb-12">
         <div class="md:w-1/3 md:inline-block">
-            <span class="text-[35px] md:text-[46px] min-[1900px]:text-[65px] tracking-[0.88px] sm:tracking-[1.77px] text-black font-black leading-10 smleading-[52px] min-[1900px]:leading-[80px] mb-3">
+            <span class="text-[35px] md:text-[46px] min-[1900px]:text-[65px] tracking-[0.88px] sm:tracking-[1.77px] text-black font-black leading-10 sm:leading-[52px] min-[1900px]:leading-[80px] mb-3">
                 <b>Zapisz się na&nbsp;newsletter</b>
             </span>
             <div class="py-5 sm:py-10">
@@ -509,10 +572,12 @@ export default Vue.extend({
           if (content != null) {
             if (content.style.maxHeight == "0px" || content.style.maxHeight == ""){
               content.style.maxHeight = content.scrollHeight + "px";
-              content.classList.add("my-7")
+              content.classList.add("mb-7")
+              content.classList.add("sm:mb-14")
            } else {
               content.style.maxHeight = "0";
-              content.classList.remove("my-7")
+              content.classList.remove("mb-7")
+              content.classList.remove("sm:mb-14")
             }
           }
         }
@@ -578,16 +643,22 @@ export default Vue.extend({
   Background-attachment:fixed;
 }
 .collapsible:after {
-  content: '\25BC'; /* Unicode character for dropdown */
+  font-size: 10px;
+  content: '\25BC'; /* Unicode character for dropdown down */
   color: black;
   margin-left: 5px;
+}
+@media (min-width: 640px) {
+  .collapsible:after {
+    font-size: 16px;
+  }
 }
 .collapsible:hover:after {
   color: #0071FF;
 }
 
 .active-collapsible:after {
-  content: "\25B2"; /* Unicode character for "minus" sign (-) */
+  content: "\25B2"; /* Unicode character for dropdown up */
   color: #0071FF;
 }
 .active-collapsible {
