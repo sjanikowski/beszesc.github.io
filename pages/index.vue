@@ -99,7 +99,7 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 - 22:00<br>Kapitularz</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00 — 22:00<br>Kapitularz</div>
           <div class="w-3/4 float-right text-left px-5">Zapraszamy na pierwsze wydarzenie w jubileuszowym roku 2024, będące rozgrzewką przed jesiennym świętowaniem. Od 9:00 do 22:00 zapraszamy do kapitularza klasztoru oo. Dominikanów na rozgrzewającą herbatę, kawę i coś słodkiego. 
             <br>Wspólnie spędźmy czas przy ciastku ze słynnym beczkowym twarogiem i marmoladą. Jednocześnie prowadzić będziemy zbiórkę środków finansowych na organizację wydarzeń Jubileuszu B60.
             <br>Na miejscu będzie dostępny “Beczkowy dziennik”, czyli punkt wymiany informacji, w którym można zostawić własne wspomnienia o <i>Beczce</i> oraz dowiedzieć się więcej o Jubileuszu.</div>
@@ -130,7 +130,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">29.09</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold duration-0">
               Oficjalne otwarcie obchodów B60
             </span>
           </div>
@@ -145,7 +145,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">30.09 — 5.10</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold duration-0">
               Prologos
             </span>
           </div>
@@ -160,7 +160,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">3.10</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold italic duration-0">
               Beczka łączy pokolenia
             </span>
           </div>
@@ -190,7 +190,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">6.10 — 9.10</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold duration-0">
               Rekolekcje na dobry początek
             </span>
           </div>
@@ -207,7 +207,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">10.10</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold italic duration-0">
               Trzy okresy życia duchowego
             </span>
           </div>
@@ -221,7 +221,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">11.10</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold italic duration-0">
               Cztery pory relacji
             </span>
           </div>
@@ -231,6 +231,30 @@
           <div class="w-3/4 float-right text-left px-5">Miłość może się narodzić w różnych okolicznościach, też w duszpasterstwie. Przez 60 lat <i>Beczka</i> połączyła wiele serc. 
             <br>Zapraszamy na spotkanie dyskusyjne z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: ci małżonkowie poznali się w <i>Beczce</i>. 
             <br>Jak wygląda wspólne życie z perspektywy niedawnego zawarcia ślubu, a jak z perspektywy wielu lat spędzonych razem? Jak razem przechodzi się przez doświadczenia, radości i trudy? Przybądź, by się dowiedzieć.
+          </div>
+        </div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div>
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">12.10</span>
+            <span class="font-['Chonburi'] duration-0">
+              Kiedyś to było
+            </span>
+          </div>
+          <div class="inline-block relative w-1">
+            <svg class="absolute inline-block -translate-y-[14px] translate-x-[18px] sm:-translate-y-[22px] sm:translate-x-[26px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
+              <g id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
+                <path id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
+              </g>
+            </svg>
+          </div>  
+        </div>
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">Multikino Kraków</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA <i>Beczka</i>, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
+            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
+            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
           </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
@@ -256,10 +280,10 @@
             <span>Zapraszamy dawnych i obecnych Beczkowiczów wraz z osobami towarzyszącymi do wspólnej zabawy do białego rana (a dokładnie od 19:30 do 4:00) w Restauracji Vinnica, w Sygneczowie koło Wieliczki. 
               <br>Wydarzenie jest biletowane, a liczba biletów ograniczona.
             </span>
-            <div class="my-4 font-bold hover:text-black">
+            <div class="mt-8 mb-4 font-bold hover:translate-x-2">
               <a href="https://forms.gle/CXPKwNMmYKia14EL8">Formularz z zapisami</a>
             </div>
-            <div class="my-4 font-bold hover:text-black">
+            <div class="my-4 font-bold hover:translate-x-2">
               <a href="https://drive.google.com/file/d/1azvoYqMLJcTozpN4aTTkHZynjWEVFVPQ/view?usp=drive_link">Regulamin Balu</a>
             </div>
           </div>
@@ -269,7 +293,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">25.05</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold italic duration-0">
               Patrząc w wieczność
             </span>
           </div>
@@ -285,7 +309,7 @@
         <div>
           <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">29.06</span>
-            <span class="font-['Chonburi'] duration-0">
+            <span class="font-bold duration-0">
               Uroczyste zakończenie obchodów B60
             </span>
           </div>
@@ -297,31 +321,7 @@
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
-        <div>
-          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
-            <span class="mx-2 duration-0">24.05.2025</span>
-            <span class="font-['Chonburi'] duration-0">
-              Kiedyś to było
-            </span>
-          </div>
-          <div class="inline-block relative w-1">
-            <svg class="absolute inline-block -translate-y-[14px] translate-x-[18px] sm:-translate-y-[22px] sm:translate-x-[26px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
-              <g id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
-                <path id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
-              </g>
-            </svg>
-          </div>  
-        </div>
-        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">Multikino Kraków</div>
-          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA <i>Beczka</i>, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
-            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
-            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
-          </div>
-        </div>
-        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
-
-        <img class="opacity-100 pl-4 pt-10 sm:pt-20" src="../assets/imgs/biletowane.svg" alt="biletowane">
+        <img class="pl-4 pt-10 sm:pt-20 object-center inline-block " src="../assets/imgs/biletowane.svg" alt="biletowane">
 
       </div>
     </section>
