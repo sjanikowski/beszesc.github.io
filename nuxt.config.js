@@ -8,14 +8,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Jubileusz B60',
+    title: 'Jubileusz B60 | DDA Beczka',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'pl-PL'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Dominikańskie Duszpasterstwo Akademickie "Beczka" powstało w 1964 roku. Zobacz, jakie wydarzenia będą towarzyszyć świętowaniu okrągłego, 60-letniego jubileuszu' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
@@ -40,7 +40,8 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxt/image'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
