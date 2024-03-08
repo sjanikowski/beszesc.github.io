@@ -70,11 +70,7 @@
             max-width="960px"
             :show-title="false"
             thumbnail-quality="standard"
-            iframeClass="w-[320px] h-[180px] md:w-[640px] md:h-[360px] xl:w-[960px] xl:h-[540px] rounded-3xl"
           />
-          <!-- <LazyYoutube src="https://www.youtube.com/embed/D7GHelwdayE?si=_LPiYnR3H0p1S1KZ&player=html5" /> -->
-          <!-- <iframe class="w-[320px] h-[180px] md:w-[640px] md:h-[360px] xl:w-[960px] xl:h-[540px] rounded-3xl" src="https://www.youtube.com/embed/D7GHelwdayE?si=_LPiYnR3H0p1S1KZ&player=html5" title="YouTube video player" frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
         </p>
       </div>
     </section>
@@ -681,6 +677,12 @@ export default Vue.extend({
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
+
+@media not all and (min-width: 640px) {
+  .vlt-wrapper {
+        max-width: 20rem/* 320px */;
+    }
 }
 
 .vlt-preview {
