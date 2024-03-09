@@ -3,7 +3,7 @@
     <div
       class="w-full container mx-auto flex flex-wrap items-center justify-between mt-0"
     >
-      <div id="logo" class="hidden sm:inline-block absolute top-[30px] left-[30px] md:top-[60px] md:left-[85px] w-[72px] h-[150px] md:w-[90px] md:h-[187px] min-[1900px]:w-[144px] min-[1900px]:h-[300px] z-50">
+      <div id="logo" class="hidden sm:inline-block absolute top-[30px] left-[30px] md:top-[60px] md:left-[85px] w-[72px] h-[150px] md:w-[90px] md:h-[187px] min-[1900px]:w-[144px] min-[1900px]:h-[300px] z-[300]">
         <a
           class="no-underline"
           href="#"
@@ -11,7 +11,7 @@
         <img src="../../assets/imgs/Logo_strona_B60-03.svg" alt="logo">
         </a>
       </div>
-      <div id="insta" class="hidden md:inline-block absolute top-[60px] right-[100px] z-50 opacity-50 hover:opacity-100">
+      <div id="insta" class="hidden md:inline-block absolute top-[60px] right-[100px] z-[300] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
           href="https://www.instagram.com/ddabeczka/"
@@ -19,7 +19,7 @@
         <img src="../../assets/imgs/Component_insta.svg" alt="insta">
         </a>
       </div>
-      <div id="fb" class="hidden md:inline-block absolute top-[130px] right-[100px] opacity-50 hover:opacity-100">
+      <div id="fb" class="hidden md:inline-block absolute top-[130px] right-[100px] z-[300] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
           href="https://www.facebook.com/DABeczka"
