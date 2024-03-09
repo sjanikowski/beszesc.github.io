@@ -171,7 +171,7 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z Akwinu</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z&nbsp;Akwinu</div>
           <div class="w-3/4 float-right text-left px-5">Międzypokoleniowe spotkanie dyskusyjne z dawnymi i obecnymi Beczkowiczami. Doświadczenia dotyczące studiowania, życia w Polsce i Krakowie, beczkowej codzienności potrafią być podobne, niezależnie od dekady, w której przyszło nam studiować. Są też takie wspomnienia, które bywają unikalne tylko dla jednego pokolenia. 
             <br>W ten wieczór naszymi rozmówcami będą przedstawiciele wielu pokoleń Beczkowiczów - zobaczmy jak różne refleksje łączy jedna <i>Beczka</i>.
           </div>
@@ -218,7 +218,7 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z Akwinu</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z&nbsp;Akwinu</div>
           <div class="w-3/4 float-right text-left px-5"><i>Beczka</i> jest i była miejscem kształtowania osobowości i planowania swojej przyszłości. Dla niektórych studentów był to też wyjątkowy czas odkrywania swojego powołania do życia zakonnego i kapłańskiego. Zapraszamy na spotkanie dyskusyjne z tymi, których powołanie zaczęło się w <i>Beczce</i>. </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
@@ -232,7 +232,7 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z Akwinu</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z&nbsp;Akwinu</div>
           <div class="w-3/4 float-right text-left px-5">Miłość może się narodzić w różnych okolicznościach, też w duszpasterstwie. Przez 60 lat <i>Beczka</i> połączyła wiele serc. 
             <br>Zapraszamy na spotkanie dyskusyjne z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: ci małżonkowie poznali się w <i>Beczce</i>. 
             <br>Jak wygląda wspólne życie z perspektywy niedawnego zawarcia ślubu, a jak z perspektywy wielu lat spędzonych razem? Jak razem przechodzi się przez doświadczenia, radości i trudy? Przybądź, by się dowiedzieć.
@@ -367,7 +367,7 @@
                 </g>
               </g>
             </svg>
-            <svg class="absolute h-[300px] w-[300px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
+            <svg class="rotating absolute h-[300px] w-[300px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
               <g id="Group_229" data-name="Group 229" transform="translate(-671 -7470.192)">
                 <g id="Group_221" data-name="Group 221" transform="translate(-1910.301 6151.981)">
                   <path id="Path_359" data-name="Path 359" d="M2859.6,1331.715l-1.94-13.5,2.828.213,1.124,9.13,3.259-8.8,2.6.2,1.9,9.17,2.48-8.839,2.732.2-3.924,13.064-2.9-.22-1.921-9.457-3.355,9.06Z" transform="translate(25.887)" fill="#ffa9c9"/>
@@ -790,4 +790,45 @@ export default Vue.extend({
   background-size: cover;
   background-blend-mode: multiply;
 }
+
+@keyframes rotating
+    {
+    from
+        {
+        transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        }
+    to
+        {
+        transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        }
+    }
+@-webkit-keyframes rotating
+    {
+    from
+        {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        }
+    to
+        {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        }
+    }
+.rotating
+    {
+    -webkit-animation: rotating 60s linear infinite;
+    -moz-animation: rotating 60s linear infinite;
+    -ms-animation: rotating 60s linear infinite;
+    -o-animation: rotating 60s linear infinite;
+    animation: rotating 60s linear infinite;
+    }
 </style>
