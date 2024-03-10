@@ -59,7 +59,10 @@
               jest teraz. Świętowanie czas zacząć, nadchodzi <b>B60</b>.
           </h3>
         </div>
-        <Countdown class="mx-auto"/>
+        <Countdown class="mt-10 mx-auto"/>
+        <div class="py-6 text-[11px] sm:text-[22px] font-semibold content-center text-center">
+          pozostało do oficjalnego otwarcia obchodów B60
+        </div>
       </div>
     </section>
     <section id="zwiastun" class="py-4 sm:py-8">
@@ -347,9 +350,9 @@
           początek listy inicjatyw, które towarzyszyć będą obchodom Jubileuszu w trakcie całego roku akademickiego. Wszystko, by móc wspólnie się spotkać, powspominać, ucieszyć i poświętować.<br><br>
           To nie tylko ogromna ilość pracy, ale także niezbędnych do zgromadzenia środków finansowych. <b>Przygotowanie B60 nie będzie możliwe bez Waszego wsparcia i zaangażowania</b>, za które już teraz jesteśmy niezmiernie wdzięczni.
         </h3>
-        <div class="container mx-auto relative h-[300px] w-[300px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
+        <div class="container mx-auto relative h-[240px] w-[240px] min-[320px]:h-[280px] min-[320px]:w-[280px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
           <a href="https://wspieramdabeczka.dominikanie.pl/" target=”_blank”>
-            <svg class="absolute h-[300px] w-[300px] md:h-[560px] md:w-[560px]" id="dorzuc_svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
+            <svg class="absolute h-[240px] w-[240px] min-[320px]:h-[280px] min-[320px]:w-[280px] md:h-[560px] md:w-[560px]" id="dorzuc_svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
               <g id="Group_229" data-name="Group 229" transform="translate(-671 -7470.192)">
                 <g id="Component_10_3" data-name="Component 10 – 3" transform="translate(800.523 7628)">
                   <g id="Group_21" data-name="Group 21" transform="translate(-255.789 -752.665)">
@@ -368,7 +371,7 @@
                 </g>
               </g>
             </svg>
-            <svg class="rotating absolute h-[300px] w-[300px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
+            <svg class="rotating absolute h-[240px] w-[240px] min-[320px]:h-[280px] min-[320px]:w-[280px] md:h-[560px] md:w-[560px] " id="dorzuc_txt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
               <g id="Group_229" data-name="Group 229" transform="translate(-671 -7470.192)">
                 <g id="Group_221" data-name="Group 221" transform="translate(-1910.301 6151.981)">
                   <path id="Path_359" data-name="Path 359" d="M2859.6,1331.715l-1.94-13.5,2.828.213,1.124,9.13,3.259-8.8,2.6.2,1.9,9.17,2.48-8.839,2.732.2-3.924,13.064-2.9-.22-1.921-9.457-3.355,9.06Z" transform="translate(25.887)" fill="#ffa9c9"/>
@@ -513,9 +516,9 @@
         </div>
         <div class="pb-2 sm:w-[110%] text-[14px] sm:text-[22px] text-left overflow-x-scroll overflow-y-hidden sm:overflow-hidden whitespace-nowrap sm:whitespace-normal">
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 mr-1">
-            <div class="px-6 py-4">
-              <div class="font-bold text-xl mb-2">modlitewnie</div>
-              <p class="text-base">
+            <div class="px-6 py-6 sm:py-4">
+              <div class="font-bold text-base sm:text-xl mb-6">modlitewnie</div>
+              <p class="text-xs sm:text-base font-semibold">
                 <b>pamiętając o&nbsp;<i>Beczce</i></b> i&nbsp;przygotowaniach do&nbsp;Jubileuszu B60 <b>w&nbsp;modlitwie</b>
               </p>
             </div>
@@ -523,8 +526,8 @@
 
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 mx-1">
             <div class="px-6 py-4">
-              <div class="font-bold text-xl mb-2">promocyjnie</div>
-              <p class="text-base">
+              <div class="font-bold text-base sm:text-xl mb-6">promocyjnie</div>
+              <p class="text-xs sm:text-base font-semibold">
                 <b>przekazując informację o&nbsp;B60</b> zainteresowanym osobom
               </p>
             </div>
@@ -532,8 +535,8 @@
 
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 mx-1">
             <div class="px-6 py-4">
-              <div class="font-bold text-xl mb-2">sponsorsko</div>
-              <p class="text-base">
+              <div class="font-bold text-base sm:text-xl mb-6">sponsorsko</div>
+              <p class="text-xs sm:text-base font-semibold">
                 pomagając nam w&nbsp;szukaniu i&nbsp;<b>pozyskaniu sponsorów</b>
               </p>
             </div>
@@ -541,8 +544,8 @@
 
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 ml-1">
             <div class="px-6 py-4">
-              <div class="font-bold text-xl mb-2">archiwalnie</div>
-              <p class="text-base">
+              <div class="font-bold text-base sm:text-xl mb-6">archiwalnie</div>
+              <p class="text-xs sm:text-base font-semibold">
                 <b>przekazując zdjęcia i&nbsp;materiały</b> o&nbsp;<i>Beczce</i>, ludziach i&nbsp;wydarzeniach
               </p>
             </div>
@@ -782,12 +785,12 @@ export default Vue.extend({
   min-width: 180px;
   width: 23%;
   white-space: normal;
-  -webkit-clip-path: inset(0 0 0 0 round 5% 0 20% 0);
-  clip-path: inset(0 0 0 0 round 5% 0 20% 0);
+  -webkit-clip-path: inset(0 0 0 0 round 5% 0 40% 0);
+  clip-path: inset(0 0 0 0 round 5% 0 40% 0);
 }
 
 .blend-news {
-  background-image: url(/news.png);
+  background-image: url(../assets/imgs/news.png);
   background-size: cover;
   background-blend-mode: multiply;
 }

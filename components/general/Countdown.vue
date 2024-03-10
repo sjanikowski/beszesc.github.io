@@ -1,20 +1,20 @@
 <template>
-  <div class="w-3/4 grid grid-cols-4 text-center p-10 border-[1px] rounded border-black">
+  <div class="w-full sm:w-3/4 grid grid-cols-4 text-center p-10 border-y-2 sm:border-[1px] sm:rounded border-black">
     <div>
-      <div class="text-[52px] font-black">{{ displayDays }}</div>
-      <div class="text-[16px] font-medium p-2">DNI</div>
+      <div class="text-[28px] sm:text-[52px] font-black">{{ displayDays }}</div>
+      <div class="text-[9px] sm:text-[16px] font-medium p-2">DNI</div>
     </div>
     <div>
-      <div class="text-[52px] font-black">{{ displayHours }}</div>
-      <div class="text-[16px] font-medium p-2">GODZINY</div>
+      <div class="text-[28px] sm:text-[52px] font-black">{{ displayHours }}</div>
+      <div class="text-[9px] sm:text-[16px] font-medium p-2">GODZINY</div>
     </div>
     <div>
-      <div class="text-[52px] font-black">{{ displayMinutes }}</div>
-      <div class="text-[16px] font-medium p-2">MINUTY</div>
+      <div class="text-[28px] sm:text-[52px] font-black">{{ displayMinutes }}</div>
+      <div class="text-[9px] sm:text-[16px] font-medium p-2">MINUTY</div>
     </div>
     <div>
-      <div class="text-[52px] font-black">{{ displaySeconds }}</div>
-      <div class="text-[16px] font-medium p-2">SEKUNDY</div>
+      <div class="text-[28px] sm:text-[52px] font-black">{{ displaySeconds }}</div>
+      <div class="text-[9px] sm:text-[16px] font-medium p-2">SEKUNDY</div>
     </div>
   </div>
 </template>
@@ -49,7 +49,7 @@ export default defineComponent({
     showRemaining(){
       const timer = setInterval(() => {
         const now = new Date()
-        const end = new Date(2024, 9, 0, 0, 0, 0, 0)
+        const end = new Date(2024, 8, 29, 20, 20, 0, 0)
         const dist = end.getTime() - now.getTime()
 
         if (dist < 0){
