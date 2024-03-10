@@ -59,6 +59,7 @@
               jest teraz. Świętowanie czas zacząć, nadchodzi <b>B60</b>.
           </h3>
         </div>
+        <Countdown class="mx-auto"/>
       </div>
     </section>
     <section id="zwiastun" class="py-4 sm:py-8">
@@ -286,10 +287,10 @@
               <br>Wydarzenie jest biletowane, a liczba biletów ograniczona.
             </span>
             <div class="mt-8 mb-4 font-bold hover:translate-x-2">
-              <a href="https://forms.gle/CXPKwNMmYKia14EL8">Formularz z zapisami</a>
+              <a href="https://forms.gle/CXPKwNMmYKia14EL8" target=”_blank”>Formularz z zapisami</a>
             </div>
             <div class="my-4 font-bold hover:translate-x-2">
-              <a href="https://drive.google.com/file/d/1azvoYqMLJcTozpN4aTTkHZynjWEVFVPQ/view?usp=drive_link">Regulamin Balu</a>
+              <a href="https://drive.google.com/file/d/1azvoYqMLJcTozpN4aTTkHZynjWEVFVPQ/view?usp=drive_link" target=”_blank”>Regulamin Balu</a>
             </div>
           </div>
         </div>
@@ -347,7 +348,7 @@
           To nie tylko ogromna ilość pracy, ale także niezbędnych do zgromadzenia środków finansowych. <b>Przygotowanie B60 nie będzie możliwe bez Waszego wsparcia i zaangażowania</b>, za które już teraz jesteśmy niezmiernie wdzięczni.
         </h3>
         <div class="container mx-auto relative h-[300px] w-[300px] md:h-[560px] md:w-[560px] py-8" v-on:mouseover="changePig('#ffa9c9')" v-on:mouseleave="changePig('#000')">
-          <a href="https://wspieramdabeczka.dominikanie.pl/">
+          <a href="https://wspieramdabeczka.dominikanie.pl/" target=”_blank”>
             <svg class="absolute h-[300px] w-[300px] md:h-[560px] md:w-[560px]" id="dorzuc_svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 577.381 577.25">
               <g id="Group_229" data-name="Group 229" transform="translate(-671 -7470.192)">
                 <g id="Component_10_3" data-name="Component 10 – 3" transform="translate(800.523 7628)">
@@ -560,7 +561,7 @@
             </div>
         </div>
         <div class="md:inline-block m-4 hover:translate-x-2 w-[47px] h-[47px] md:w-[75px] md:h-[75px] min-[1900px]:w-[94px] min-[1900px]:h-[94px]">
-          <a v-on:mouseover="changeArrow('1')" v-on:mouseleave="changeArrow('0')" href="https://docs.google.com/forms/d/e/1FAIpQLSc2LhViumFGjpz4AAjk_qEhn2YjtMOKHlrwmqgyDS5j6VPPxA/viewform">
+          <a v-on:mouseover="changeArrow('1')" v-on:mouseleave="changeArrow('0')" href="https://docs.google.com/forms/d/e/1FAIpQLSc2LhViumFGjpz4AAjk_qEhn2YjtMOKHlrwmqgyDS5j6VPPxA/viewform" target=”_blank”>
             <svg id="Component_35_1" data-name="Component 35 – 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 94.074 94.074">
               <path id="Path_498" data-name="Path 498" d="M657.935,257.86A47.037,47.037,0,1,0,704.972,304.9,47.037,47.037,0,0,0,657.935,257.86Zm0,72.874L652.7,325.5l16.9-16.9H635.8a3.7,3.7,0,1,1,0-7.4h33.808l-16.9-16.9,5.232-5.233L683.771,304.9Z" transform="translate(-610.898 -257.86)"/>
               <path id="arrow" data-name="Path 499" d="M660.764,292.356l16.9,16.9H643.86a3.7,3.7,0,1,0,0,7.4h33.808l-16.9,16.9L666,338.8l25.837-25.836L666,287.123Z" transform="translate(-618.96 -265.922)" fill="#fff" opacity="0"/>
@@ -606,14 +607,14 @@
           <ul class="list-reset mb-6">
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://www.facebook.com/DABeczka"
+                href="https://www.facebook.com/DABeczka" target=”_blank”
                 class="no-underline hover:underline"
                 >FACEBOOK</a
               >
             </li>
             <li class="mt-2 inline-block mr-2 md:block md:mr-0">
               <a
-                href="https://www.instagram.com/ddabeczka/"
+                href="https://www.instagram.com/ddabeczka/" target=”_blank”
                 class="no-underline hover:underline"
                 >INSTAGRAM</a
               >

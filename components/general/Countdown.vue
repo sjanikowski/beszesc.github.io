@@ -1,31 +1,21 @@
 <template>
-  <div>
-    <section class="text-3xl flex justify-center content-center flex-col mx-auto text-center"
-    >Do 60-lecia</section>
-    <section class="flex text-6xl justify-center content-center">
-      <div class="days mr-2 relative">
-        {{displayDays}} : {{displayHours}} : {{displayMinutes}} : {{displaySeconds}}
-      </div>
-      <!-- <div class="days mr-2 relative">
-        {{displayDays}}
-        <div class="label text-sm absolute bottom-0">dni</div>
-      </div>
-      <span class="leading-snug">:</span>
-      <div class="hours mr-2 relative">
-        {{displayHours}}
-        <div class="label text-sm absolute bottom-0">godzin</div>
-      </div>
-      <span class="leading-snug">:</span>
-      <div class="minutes mr-2 relative">
-        {{displayMinutes}}
-        <div class="label text-sm absolute bottom-0">minut</div>
-      </div>
-      <span class="leading-snug">:</span>
-      <div class="seconds mr-2 relative">
-        {{displaySeconds}}
-        <div class="label text-sm absolute bottom-0">sekund</div>
-      </div> -->
-    </section>
+  <div class="w-3/4 grid grid-cols-4 text-center p-10 border-[1px] rounded border-black">
+    <div>
+      <div class="text-[52px] font-black">{{ displayDays }}</div>
+      <div class="text-[16px] font-medium p-2">DNI</div>
+    </div>
+    <div>
+      <div class="text-[52px] font-black">{{ displayHours }}</div>
+      <div class="text-[16px] font-medium p-2">GODZINY</div>
+    </div>
+    <div>
+      <div class="text-[52px] font-black">{{ displayMinutes }}</div>
+      <div class="text-[16px] font-medium p-2">MINUTY</div>
+    </div>
+    <div>
+      <div class="text-[52px] font-black">{{ displaySeconds }}</div>
+      <div class="text-[16px] font-medium p-2">SEKUNDY</div>
+    </div>
   </div>
 </template>
 
@@ -83,9 +73,4 @@ export default defineComponent({
 </script>
 
 <style>
-  /* .leading-snug {
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-  } */
 </style>

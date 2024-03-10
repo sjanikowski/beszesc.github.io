@@ -14,7 +14,7 @@
       <div id="insta" class="hidden md:inline-block absolute top-[60px] right-[100px] z-[300] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
-          href="https://www.instagram.com/ddabeczka/"
+          href="https://www.instagram.com/ddabeczka/" target=”_blank”
         >
         <img src="../../assets/imgs/Component_insta.svg" alt="insta">
         </a>
@@ -22,7 +22,7 @@
       <div id="fb" class="hidden md:inline-block absolute top-[130px] right-[100px] z-[300] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
-          href="https://www.facebook.com/DABeczka"
+          href="https://www.facebook.com/DABeczka" target=”_blank”
         >
         <img src="../../assets/imgs/Component_fb.svg" alt="fb">
         </a>
@@ -142,7 +142,7 @@
       <div id="mobilemenuinsta" @click="mobileSidebar = false" class="inline-block sm:hidden absolute bottom-[50px] right-[120px] z-50 opacity-50 hover:opacity-100">
         <a
           class="no-underline"
-          href="https://www.instagram.com/ddabeczka/"
+          href="https://www.instagram.com/ddabeczka/" target=”_blank”
         >
         <img src="../../assets/imgs/Component_insta.svg" alt="insta">
         </a>
@@ -150,7 +150,7 @@
       <div id="mobilemenufb" @click="mobileSidebar = false" class="inline-block sm:hidden absolute bottom-[50px] right-[50px] opacity-50 hover:opacity-100">
         <a
           class="no-underline"
-          href="https://www.facebook.com/DABeczka"
+          href="https://www.facebook.com/DABeczka" target=”_blank”
         >
         <img src="../../assets/imgs/Component_fb.svg" alt="fb">
         </a>
