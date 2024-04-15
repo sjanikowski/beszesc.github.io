@@ -100,10 +100,15 @@
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">14.01</span>
             <span class="font-['Chonburi'] duration-0">
                Rozpoczynamy odliczanie
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -116,10 +121,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
         
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">12.05</span>
             <span class="font-['Chonburi'] duration-0">
               Już za chwilę
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -137,10 +147,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">29.09</span>
             <span class="font-bold duration-0">
               Oficjalne otwarcie obchodów B60
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -152,10 +167,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">30.09 — 5.10</span>
             <span class="font-bold duration-0">
               Prologos
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -167,10 +187,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">3.10</span>
             <span class="font-bold italic duration-0">
               Beczka łączy pokolenia
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -183,10 +208,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">6.10</span>
             <span class="font-['Chonburi'] duration-0">
               60. urodziny Beczki
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -197,10 +227,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">6.10 — 9.10</span>
             <span class="font-bold duration-0">
               Rekolekcje na dobry początek
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -214,10 +249,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">10.10</span>
             <span class="font-bold italic duration-0">
               Trzy okresy życia duchowego
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -228,10 +268,15 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">11.10</span>
             <span class="font-bold italic duration-0">
               Cztery pory relacji
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -246,42 +291,23 @@
 
         <div>
           <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
-            <span class="mx-2 duration-0">12.10</span>
-            <span class="font-['Chonburi'] duration-0">
-              Kiedyś to było
-            </span>
-          </div>
-          <div class="inline-block relative w-1">
-            <svg class="absolute inline-block -translate-y-[14px] translate-x-[18px] sm:-translate-y-[22px] sm:translate-x-[26px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
-              <g id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
-                <path id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
-              </g>
-            </svg>
-          </div>  
-        </div>
-        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">Multikino Kraków</div>
-          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA <i>Beczka</i>, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
-            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
-            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
-          </div>
-        </div>
-        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
-
-        <div>
-          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">26.10</span>
             <span class="font-['Chonburi'] duration-0">
               Wybiła północ
             </span>
-          </div>
-          <div class="inline-block relative w-1">
-            <svg class="absolute inline-block -translate-y-[14px] translate-x-[18px] sm:-translate-y-[22px] sm:translate-x-[26px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
-              <g id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
-                <path id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
-              </g>
-            </svg>
-          </div>  
+            <span class="inline-block max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
+            </span>
+            <div class="inline-block relative w-1 duration-0">
+              <svg class="duration-0 absolute inline-block -translate-y-[14px] translate-x-[9px] sm:-translate-y-[22px] sm:translate-x-[13px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
+                <g class="duration-0" id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
+                  <path class="duration-0" id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
+                </g>
+              </svg>
+            </div> 
+          </div> 
         </div>      
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">19:30 — 4:00<br>Restauracja Vinnica</div>
@@ -300,15 +326,20 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
-            <span class="mx-2 duration-0">25.05</span>
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">23.05</span>
             <span class="font-bold italic duration-0">
               Patrząc w wieczność
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika — Beczka</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">19:30<br>Bazylika — Beczka</div>
           <div class="w-3/4 float-right text-left px-5">W rocznicę śmierci założyciela <i>Beczki</i>, ojca Tomasza Pawłowskiego OP, zapraszamy na Mszę Świętą w jego intencji o godzinie 19:30. 
             <br>W tym roku szczególnie dziękujemy za ogrom dobra, którego - dzięki jego pracy duszpasterskiej - doświadczyło wiele pokoleń krakowskich studentów. Modlimy się też o kolejne owoce działalności DDA <i>Beczka</i>, które staną się udziałem obecnych i następnych pokoleń Beczkowiczów.
             <br>Po Mszy zapraszamy na agapę do pomieszczeń <i>Beczki</i>.</div>
@@ -316,10 +347,44 @@
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
         <div>
-          <div class="collapsible cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">24.05</span>
+            <span class="font-['Chonburi'] duration-0">
+              Kiedyś to było
+            </span>
+            <span class="inline-block max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
+            </span>
+            <div class="inline-block relative w-1 duration-0">
+              <svg class="duration-0 absolute inline-block -translate-y-[14px] translate-x-[9px] sm:-translate-y-[22px] sm:translate-x-[13px] h-[18px] sm:h-[26px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30.993">
+                <g class="duration-0" id="Group_171" data-name="Group 171" transform="translate(-240 -5835)">
+                  <path class="duration-0" id="Path_336" data-name="Path 336" d="M495.009,773.962a6.789,6.789,0,0,1,6.789-6.789v-8.707H481.568v2.2H480.1v-2.2H449.11v30.993H480.1v-2.2h1.464v2.2H501.8v-8.708A6.789,6.789,0,0,1,495.009,773.962Zm-13.442,11.254H480.1v-4.093h1.464Zm0-6.139H480.1v-4.092h1.464Zm0-6.138H480.1v-4.092h1.464Zm0-6.139H480.1v-4.092h1.464Z" transform="translate(-209.11 5076.535)"/>
+                </g>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">Multikino Kraków</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA <i>Beczka</i>, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
+            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
+            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
+          </div>
+        </div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
+        <div>
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">29.06</span>
             <span class="font-bold duration-0">
               Uroczyste zakończenie obchodów B60
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
             </span>
           </div>
         </div>
@@ -740,24 +805,13 @@ export default Vue.extend({
   Background-position: center;
   Background-attachment:fixed;
 }
-.collapsible:after {
-  font-size: 10px;
-  content: '\25BC'; /* Unicode character for dropdown down */
-  color: black;
-  margin-left: 5px;
-}
-@media (min-width: 640px) {
-  .collapsible:after {
-    font-size: 16px;
-  }
-}
-.collapsible:hover:after {
-  color: #0071FF;
+
+.collapsible:hover svg {
+  fill: #0071FF;
 }
 
-.active-collapsible:after {
-  content: "\25B2"; /* Unicode character for dropdown up */
-  color: #0071FF;
+.active-collapsible svg {
+  fill: #0071FF;
 }
 .active-collapsible {
   --tw-text-opacity: 1;
@@ -790,7 +844,7 @@ export default Vue.extend({
 }
 
 .blend-news {
-  background-image: url(../assets/imgs/news.png);
+  background-image: url(../assets/imgs/newsletter_bw.png);
   background-size: cover;
   background-blend-mode: multiply;
 }
