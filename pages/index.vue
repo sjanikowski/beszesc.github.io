@@ -221,7 +221,7 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">9:00<br>Bazylika — Kapitularz</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">9:00<br>Bazylika — Krużganki</div>
           <div class="w-3/4 float-right text-left px-5">To już 60 urodziny! Czujcie się zaproszeni. Zaczynamy Mszą Świętą o godzinie 9:00, która przez wiele lat była Mszą akademicką, a po niej - wiedzeni zapachem słodyczy - udamy się na krużganki na beczkowe przyjęcie urodzinowe. 60 urodziny nie mogą się przecież obyć bez tortu!</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
@@ -263,7 +263,7 @@
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z&nbsp;Akwinu</div>
-          <div class="w-3/4 float-right text-left px-5"><i>Beczka</i> jest i była miejscem kształtowania osobowości i planowania swojej przyszłości. Dla niektórych studentów był to też wyjątkowy czas odkrywania swojego powołania do życia zakonnego i kapłańskiego. Zapraszamy na spotkanie dyskusyjne z tymi, których powołanie zaczęło się w <i>Beczce</i>. </div>
+          <div class="w-3/4 float-right text-left px-5"><i>Beczka</i> jest i była miejscem kształtowania osobowości i planowania swojej przyszłości. Dla niektórych studentów był to też wyjątkowy czas odkrywania swojego powołania do życia zakonnego i kapłańskiego. Zapraszamy na spotkanie z tymi, których powołanie zaczęło się w <i>Beczce</i>. </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -283,7 +283,7 @@
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z&nbsp;Akwinu</div>
           <div class="w-3/4 float-right text-left px-5">Miłość może się narodzić w różnych okolicznościach, też w duszpasterstwie. Przez 60 lat <i>Beczka</i> połączyła wiele serc. 
-            <br>Zapraszamy na spotkanie dyskusyjne z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: ci małżonkowie poznali się w <i>Beczce</i>. 
+            <br>Zapraszamy na spotkanie z małżeństwami z różnym stażem, które jednak łączy jedna rzecz: poznali się w <i>Beczce</i>. 
             <br>Jak wygląda wspólne życie z perspektywy niedawnego zawarcia ślubu, a jak z perspektywy wielu lat spędzonych razem? Jak razem przechodzi się przez doświadczenia, radości i trudy? Przybądź, by się dowiedzieć.
           </div>
         </div>
@@ -581,7 +581,7 @@
         </div>
         <div class="pb-2 sm:w-[110%] text-[14px] sm:text-[22px] text-left overflow-x-scroll overflow-y-hidden sm:overflow-hidden whitespace-nowrap sm:whitespace-normal">
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 mr-1">
-            <div class="px-6 py-6 sm:py-4">
+            <div class="p-6">
               <div class="font-bold text-base sm:text-xl mb-6">modlitewnie</div>
               <p class="text-xs sm:text-base font-semibold">
                 <b>pamiętając o&nbsp;<i>Beczce</i></b> i&nbsp;przygotowaniach do&nbsp;Jubileuszu B60 <b>w&nbsp;modlitwie</b>
@@ -590,7 +590,7 @@
           </div>
 
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 mx-1">
-            <div class="px-6 py-4">
+            <div class="p-6">
               <div class="font-bold text-base sm:text-xl mb-6">promocyjnie</div>
               <p class="text-xs sm:text-base font-semibold">
                 <b>przekazując informację o&nbsp;B60</b> zainteresowanym osobom
@@ -599,7 +599,7 @@
           </div>
 
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 mx-1">
-            <div class="px-6 py-4">
+            <div class="p-6">
               <div class="font-bold text-base sm:text-xl mb-6">sponsorsko</div>
               <p class="text-xs sm:text-base font-semibold">
                 pomagając nam w&nbsp;szukaniu i&nbsp;<b>pozyskaniu sponsorów</b>
@@ -608,7 +608,7 @@
           </div>
 
           <div class="cardnote hover:translate-y-2 h-[240px] lg:h-[280px] bg-white bg-opacity-50 ml-1">
-            <div class="px-6 py-4">
+            <div class="p-6">
               <div class="font-bold text-base sm:text-xl mb-6">archiwalnie</div>
               <p class="text-xs sm:text-base font-semibold">
                 <b>przekazując zdjęcia i&nbsp;materiały</b> o&nbsp;<i>Beczce</i>, ludziach i&nbsp;wydarzeniach
