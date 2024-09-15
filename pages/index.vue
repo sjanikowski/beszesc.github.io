@@ -934,15 +934,6 @@ export default Vue.extend({
     animation: rotating 60s linear infinite;
     }
 
-@keyframes slide {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-780%);
-  }
-}
-
 .logos {
   overflow: hidden;
   padding: 20px 0;
@@ -970,25 +961,128 @@ export default Vue.extend({
 
 .logos-slide {
   display: inline-block;
-  animation: 80s slide infinite linear;
+  animation: 18s slide infinite linear;
 }
 
 .logos-slide img {
   display: inline;
 }
 
-@media (max-width: 640px) {
-  .logos-slide img {
-    width: 180px;
+@keyframes slide {
+  from {
+    transform: translateX(0);
   }
+  to {
+    transform: translateX(-1500%);
+  }
+}
+
+@media (min-width: 380px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1450%);
+    }
+  }
+}
+
+@media (min-width: 400px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1400%);
+    }
+  }
+}
+
+@media (min-width: 420px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1350%);
+    }
+  }
+}
+
+@media (min-width: 440px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1300%);
+    }
+  }
+}
+
+@media (min-width: 480px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1200%);
+    }
+  }
+}
+
+@media (min-width: 520px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1100%);
+    }
+  }
+}
+
+@media (min-width: 560px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-1000%);
+    }
+  }
+}
+
+@media (min-width: 600px) {
+  @keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-900%);
+    }
+  }
+}
+
+@media (min-width: 640px) {
   @keyframes slide {
   from {
     transform: translateX(0);
   }
   to {
-    transform: translateX(-1850%);
+    transform: translateX(-800%);
   }
 }
+}
+
+@media (max-width: 640px) {
+  .logos-slide {
+    animation: 100s slide infinite linear;
+  }
+  .logos-slide img {
+    width: 180px;
+  }
 }
 
 </style>
