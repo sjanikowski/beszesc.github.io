@@ -228,7 +228,7 @@
 
         <div>
           <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
-            <span class="mx-2 duration-0">6.10 — 9.10</span>
+            <span class="mx-2 duration-0">7.10 — 9.10</span>
             <span class="font-bold duration-0">
               Rekolekcje na dobry początek
             </span>
@@ -240,7 +240,7 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika</div>
+          <div class="w-1/4 float-left text-right px-5 font-bold">19:30<br>Bazylika</div>
           <div class="w-3/4 float-right text-left px-5">To już tradycja, że rok akademicki rozpoczynamy rekolekcjami. W 2024 roku będą one wyjątkowe, bo głoszone przez liczną grupę byłych duszpasterzy <i>Beczki</i>.
             <br>Zapraszamy w niedzielę 6.10 na “Dwudziestki” rozpoczynające rekolekcje. A po Mszy odbędzie się nocne zwiedzanie Bazyliki. 
             <br>Zaś 7-9.10 (od poniedziałku do środy) Msze rekolekcyjne wystartują o 19:30. Po nich będą konferencje, a po konferencjach - agapy i spotkania.
@@ -293,7 +293,7 @@
           <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">26.10</span>
             <span class="font-['Chonburi'] duration-0">
-              Wybiła północ
+              Bal Jubileuszowy. Wybiła północ
             </span>
             <span class="inline-block max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
               <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
@@ -617,9 +617,47 @@
           </div>
         </div>
       </div>
+      <div class="logos">
+        <div id="logos-slider" class="logos-slide">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-01.svg" alt="patron1">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-02.svg" alt="patron2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-03.svg" alt="patron3">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-04.svg" alt="patron4">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-05.svg" alt="patron5">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-06.svg" alt="patron6">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-07.svg" alt="patron7">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-08.svg" alt="patron8">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-09.svg" alt="patron9">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-10.svg" alt="patron10">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-11.svg" alt="patron11">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-12.svg" alt="patron12">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-13.svg" alt="patron13">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-14.svg" alt="patron14">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-15.svg" alt="patron15">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-16.svg" alt="patron16">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-17.svg" alt="patron17">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-01.svg" alt="patron1_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-02.svg" alt="patron2_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-03.svg" alt="patron3_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-04.svg" alt="patron4_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-05.svg" alt="patron5_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-06.svg" alt="patron6_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-07.svg" alt="patron7_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-08.svg" alt="patron8_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-09.svg" alt="patron9_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-10.svg" alt="patron10_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-11.svg" alt="patron11_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-12.svg" alt="patron12_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-13.svg" alt="patron13_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-14.svg" alt="patron14_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-15.svg" alt="patron15_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-16.svg" alt="patron16_2">
+          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-17.svg" alt="patron17_2">
+        </div>
+    </div>
     </section>
     <section id="newsletter">
-      <div class="pl-[60px] md:pl-[340px] pr-[40px] 2xl:pr-[240px] sm:pt-16 sm:pb-32 mb-12">
+      <div class="pl-[40px] md:pl-[340px] pr-[40px] 2xl:pr-[240px] sm:pt-16 sm:pb-32 mb-12">
         <div class="md:w-1/3 md:inline-block">
             <span class="text-[35px] md:text-[46px] min-[1900px]:text-[65px] tracking-[0.88px] sm:tracking-[1.77px] text-black font-black leading-10 sm:leading-[52px] min-[1900px]:leading-[80px] mb-3">
                 <b>Zapisz się na&nbsp;newsletter</b>
@@ -719,6 +757,12 @@ export default Vue.extend({
     this.scrollY = window.scrollY - window.innerHeight;
     // Listen to the scroll event to update the scrollY property dynamically
     window.addEventListener("scroll", this.handleScroll);
+
+    var delay = (Math.random() * 1000) % 60;
+    var slider = document.getElementById('logos-slider')
+    if (slider != null ) {
+      slider.style.animationDelay = "-" + delay + "s";
+    }
 
     var coll = document.getElementsByClassName("collapsible");
     const collapsibles = Array.from(coll);
@@ -889,4 +933,62 @@ export default Vue.extend({
     -o-animation: rotating 60s linear infinite;
     animation: rotating 60s linear infinite;
     }
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-780%);
+  }
+}
+
+.logos {
+  overflow: hidden;
+  padding: 20px 0;
+  white-space: nowrap;
+  position: relative;
+}
+
+.logos:before,
+.logos:after {
+  position: absolute;
+  top: 0;
+  width: 150px;
+  height: 100%;
+  content: "";
+  z-index: 2;
+}
+
+.logos:before {
+  left: 0;
+}
+
+.logos:after {
+  right: 0;
+}
+
+.logos-slide {
+  display: inline-block;
+  animation: 80s slide infinite linear;
+}
+
+.logos-slide img {
+  display: inline;
+}
+
+@media (max-width: 640px) {
+  .logos-slide img {
+    width: 180px;
+  }
+  @keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-1850%);
+  }
+}
+}
+
 </style>
