@@ -961,7 +961,7 @@ export default Vue.extend({
 
 .logos-slide {
   display: inline-block;
-  animation: 18s slide infinite linear;
+  animation: 80s slide infinite linear;
 }
 
 .logos-slide img {
