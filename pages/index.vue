@@ -617,7 +617,7 @@
           </div>
         </div>
       </div>
-      <div class="logos">
+      <!-- <div class="logos">
         <div id="logos-slider" class="logos-slide">
           <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-01.svg" alt="patron1">
           <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-02.svg" alt="patron2">
@@ -654,7 +654,7 @@
           <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-16.svg" alt="patron16_2">
           <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-17.svg" alt="patron17_2">
         </div>
-    </div>
+    </div> -->
     </section>
     <section id="newsletter">
       <div class="pl-[40px] md:pl-[340px] pr-[40px] 2xl:pr-[240px] sm:pt-16 sm:pb-32 mb-12">
