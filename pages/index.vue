@@ -59,10 +59,6 @@
               jest teraz. Świętowanie czas zacząć, nadchodzi <b>B60</b>.
           </h3>
         </div>
-        <Countdown class="mt-10 mx-auto"/>
-        <div class="py-6 text-[11px] sm:text-[22px] font-semibold content-center text-center">
-          pozostało do oficjalnego otwarcia obchodów B60
-        </div>
       </div>
     </section>
     <section id="zwiastun" class="py-4 sm:py-8">
@@ -161,8 +157,7 @@
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">20:20<br>Bazylika — Krużganki</div>
-          <div class="w-3/4 float-right text-left px-5">O 20:20 rozpocznie się uroczysta Msza Święta otwierająca Jubileusz 60-lecia założenia DDA <i>Beczka</i>.
-            <br>Po Mszy, na krużgankach, odbędzie się wernisaż wystawy poświęconej <i>Beczce</i> na przestrzeni lat. To niezwykła okazja do powspominania wydarzeń z historii naszego Duszpasterstwa.</div>
+          <div class="w-3/4 float-right text-left px-5">O 20:20 rozpocznie się uroczysta Msza Święta otwierająca Jubileusz 60-lecia założenia DDA <i>Beczka</i>.</div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
@@ -222,7 +217,9 @@
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">9:00<br>Bazylika — Krużganki</div>
-          <div class="w-3/4 float-right text-left px-5">To już 60 urodziny! Czujcie się zaproszeni. Zaczynamy Mszą Świętą o godzinie 9:00, która przez wiele lat była Mszą akademicką, a po niej - wiedzeni zapachem słodyczy - udamy się na krużganki na beczkowe przyjęcie urodzinowe. 60 urodziny nie mogą się przecież obyć bez tortu!</div>
+          <div class="w-3/4 float-right text-left px-5">To już 60 urodziny! Czujcie się zaproszeni. Zaczynamy Mszą Świętą o godzinie 9:00, która przez wiele lat była Mszą akademicką, a po niej - wiedzeni zapachem słodyczy - udamy się na krużganki na beczkowe przyjęcie urodzinowe. 60 urodziny nie mogą się przecież obyć bez tortu!
+            <br>Po Mszy, na krużgankach, odbędzie się wernisaż wystawy poświęconej <i>Beczce</i> na przestrzeni lat. To niezwykła okazja do powspominania wydarzeń z historii naszego Duszpasterstwa.
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
