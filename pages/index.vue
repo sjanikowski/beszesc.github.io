@@ -196,8 +196,8 @@
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">Aula św. Tomasza z&nbsp;Akwinu</div>
-          <div class="w-3/4 float-right text-left px-5">Międzypokoleniowe spotkanie dyskusyjne z dawnymi i obecnymi Beczkowiczami. Doświadczenia dotyczące studiowania, życia w Polsce i Krakowie, beczkowej codzienności potrafią być podobne, niezależnie od dekady, w której przyszło nam studiować. Są też takie wspomnienia, które bywają unikalne tylko dla jednego pokolenia. 
-            <br>W ten wieczór naszymi rozmówcami będą przedstawiciele wielu pokoleń Beczkowiczów - zobaczmy jak różne refleksje łączy jedna <i>Beczka</i>.
+          <div class="w-3/4 float-right text-left px-5">Spotkanie z pierwszymi Beczkowiczami, na którym opowiedzą oni zarówno o zakładaniu duszpasterstwa, o ojcu Tomaszu Pawłowskim, 
+            jak i o studiowaniu w Krakowie w latach 60. Posłuchajmy o początkach <i>Beczki</i> we wspomnieniach tych, którzy ją tworzyli.
           </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
@@ -238,10 +238,10 @@
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
           <div class="w-1/4 float-left text-right px-5 font-bold">19:30<br>Bazylika</div>
-          <div class="w-3/4 float-right text-left px-5">To już tradycja, że rok akademicki rozpoczynamy rekolekcjami. W 2024 roku będą one wyjątkowe, bo głoszone przez liczną grupę byłych duszpasterzy <i>Beczki</i>.
-            <br>Zapraszamy w niedzielę 6.10 na “Dwudziestki” rozpoczynające rekolekcje. A po Mszy odbędzie się nocne zwiedzanie Bazyliki. 
-            <br>Zaś 7-9.10 (od poniedziałku do środy) Msze rekolekcyjne wystartują o 19:30. Po nich będą konferencje, a po konferencjach - agapy i spotkania.
-</div>
+          <div class="w-3/4 float-right text-left px-5">To już tradycja, że rok akademicki rozpoczynamy rekolekcjami. W 2024 roku będą one wyjątkowe, bo głoszone przez byłych duszpasterzy <i>Beczki</i>.
+            <br>Rekolekcje pod tytułem <i>"Jak kochać Boga, siebie i bliźniego?"</i> wygłoszą o. Adam Szustak, o. Marek Rojszyk i o. Maciej Roszkowski. 
+            <br>Od poniedziałku do środy zapraszamy na Msze święte o 19:30. Po nich będą konferencje, a po konferencjach - agapy i spotkania."
+          </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
