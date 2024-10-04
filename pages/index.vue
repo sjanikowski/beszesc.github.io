@@ -614,44 +614,26 @@
           </div>
         </div>
       </div>
-      <!-- <div class="logos">
-        <div id="logos-slider" class="logos-slide">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-01.svg" alt="patron1">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-02.svg" alt="patron2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-03.svg" alt="patron3">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-04.svg" alt="patron4">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-05.svg" alt="patron5">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-06.svg" alt="patron6">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-07.svg" alt="patron7">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-08.svg" alt="patron8">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-09.svg" alt="patron9">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-10.svg" alt="patron10">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-11.svg" alt="patron11">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-12.svg" alt="patron12">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-13.svg" alt="patron13">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-14.svg" alt="patron14">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-15.svg" alt="patron15">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-16.svg" alt="patron16">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-17.svg" alt="patron17">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-01.svg" alt="patron1_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-02.svg" alt="patron2_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-03.svg" alt="patron3_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-04.svg" alt="patron4_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-05.svg" alt="patron5_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-06.svg" alt="patron6_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-07.svg" alt="patron7_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-08.svg" alt="patron8_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-09.svg" alt="patron9_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-10.svg" alt="patron10_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-11.svg" alt="patron11_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-12.svg" alt="patron12_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-13.svg" alt="patron13_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-14.svg" alt="patron14_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-15.svg" alt="patron15_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-16.svg" alt="patron16_2">
-          <img src="../assets/imgs/Logo_patronów_SVG/B60_logo_patronów_medialnych_2-17.svg" alt="patron17_2">
+
+      <div class="text-[9px] sm:text-[17px] py-7 sm:py-14 tracking-[1.2px] sm:tracking-[2.55px] font-medium">
+          PATRONI HONOROWI
+      </div>
+      <div id="honorowi" class="sm:p-6 flex justify-between overflow-x-scroll overflow-y-hidden sm:overflow-hidden whitespace-nowrap sm:whitespace-normal">
+          <img class="honor flex-initial border border-black" src="../assets/imgs/Kafelki_patroni_honorowi_275px-02.svg" alt="honor2">
+          <img class="honor flex-initial border border-black" src="../assets/imgs/Kafelki_patroni_honorowi_275px-03.svg" alt="honor3">
+          <a class="honor flex-initial border border-black" href="https://www.krakow.pl/" target=”_blank”>
+            <img src="../assets/imgs/Kafelki_patroni_honorowi_275px-01.svg" alt="honor1">
+          </a>
+      </div>
+      <div class="text-[9px] sm:text-[17px] pt-7 sm:pt-14 tracking-[1.2px] sm:tracking-[2.55px] font-medium">
+          PATRONI MEDIALNI
+      </div>
+      <div id="medialni" class="w-[150%] translate-x-[-16.6%] h-[150px] sm:h-[200px] overflow-hidden">
+        <div id="pasek" class="logos-slide w-[600%] translate-x-[-100%] sm:w-[300%] sm:translate-x-[-50%] h-[200px]">
+          <img class="h-[200px] w-full overflow-hidden" src="../assets/imgs/B60_logo_patronów_medialnych_pasek-01.svg" alt="medialni">
+          
         </div>
-    </div> -->
+      </div>
     </section>
     <section id="newsletter">
       <div class="pl-[40px] md:pl-[340px] pr-[40px] 2xl:pr-[240px] sm:pt-16 sm:pb-32 mb-12">
@@ -884,6 +866,10 @@ export default Vue.extend({
   clip-path: inset(0 0 0 0 round 5% 0 40% 0);
 }
 
+.honor {
+  width: 30%;
+}
+
 .blend-news {
   background-image: url(../assets/imgs/newsletter_bw.png);
   background-size: cover;
@@ -958,11 +944,8 @@ export default Vue.extend({
 
 .logos-slide {
   display: inline-block;
+  overflow: hidden;
   animation: 80s slide infinite linear;
-}
-
-.logos-slide img {
-  display: inline;
 }
 
 @keyframes slide {
@@ -970,97 +953,10 @@ export default Vue.extend({
     transform: translateX(0);
   }
   to {
-    transform: translateX(-1500%);
+    transform: translateX(-85%);
   }
 }
 
-@media (min-width: 380px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1450%);
-    }
-  }
-}
-
-@media (min-width: 400px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1400%);
-    }
-  }
-}
-
-@media (min-width: 420px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1350%);
-    }
-  }
-}
-
-@media (min-width: 440px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1300%);
-    }
-  }
-}
-
-@media (min-width: 480px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1200%);
-    }
-  }
-}
-
-@media (min-width: 520px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1100%);
-    }
-  }
-}
-
-@media (min-width: 560px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-1000%);
-    }
-  }
-}
-
-@media (min-width: 600px) {
-  @keyframes slide {
-    from {
-      transform: translateX(0);
-    }
-    to {
-      transform: translateX(-900%);
-    }
-  }
-}
 
 @media (min-width: 640px) {
   @keyframes slide {
@@ -1068,18 +964,9 @@ export default Vue.extend({
     transform: translateX(0);
   }
   to {
-    transform: translateX(-800%);
+    transform: translateX(-70%);
   }
 }
-}
-
-@media (max-width: 640px) {
-  .logos-slide {
-    animation: 100s slide infinite linear;
-  }
-  .logos-slide img {
-    width: 180px;
-  }
 }
 
 </style>
