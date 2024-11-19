@@ -322,6 +322,47 @@
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
+        <div id="6na60">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">07.11</span>
+            <span class="font-bold italic duration-0">
+              6 na 60: Czasy (nie)pamięci
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
+            </span>
+          </div>
+        </div>
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">19:00<br>UEK</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na spotkanie z prof. Andrzejem Nowakiem, wybitnym historykiem z Uniwersytetu Jagiellońskiego, wykładowcą wielu zagranicznych uczelni, m.in. Columbia, Harvard, Cambridge oraz autorem wielu publikacji naukowych.
+          <br><br>
+          Spotkanie pt. „Czasy (nie)pamięci - historia chciana i niechciana” odbędzie się w czwartek, 7 listopada, o godzinie 19:00 na Uniwersytecie Ekonomicznym w Krakowie, w sali S.9 Pawilonu Sportowo-Dydaktycznego, przy ul. Rakowickiej 27.
+          <br><br>
+          Poruszymy między innymi poniższe tematy:<br>
+          ·     Pamięć - indywidualna i zbiorowa - jak nas kształtuje?<br>
+          ·     Co wpływa na kształtowanie pamięci i tego jak indywidualnie i zbiorowo pamiętamy przeszłość?<br>
+          ·     Na czym polega pamięć zbiorowa - czy można mówić o pamięci narodów, wspólnot?<br>
+          ·     Do czego prowadzi brak pamięci o tym, kim jesteśmy i co nas ukształtowało?<br>
+          ·     O czym nie wolno nam zapomnieć w dobie szybkich zmian cywilizacyjnych?<br>
+          ·     Jak zmienia się postrzeganie przeszłości w erze cyfryzacji i nowych technologii?<br>
+          ·     Jak internet i media społecznościowe przyczyniają się do zacierania granic między faktami a interpretacjami?<br>
+          ·     Gdzie i jak odnajdywać prawdę o przeszłości?<br>
+          ·     W jaki sposób dbać o pamięć o przeszłości?<br>
+          ·     Historia jest nauczycielką życia - czy rzeczywiście się uczymy popełniając te same błędy?
+          <br><br><br>
+            
+          Spotkanie jest pierwszym z serii sześciu spotkań „6 na 60”, odbywających się przez cały rok akademicki 2024/2025 na krakowskich uczelniach. To rozmowy z wybitnymi osobami ze świata nauki i kultury dotyczące kwestii z dziedziny sztuki oraz nauk ścisłych, humanistycznych i społecznych. Tworzą one przestrzeń, gdzie różne dyscypliny mierzą się z aktualnymi wyzwaniami i najważniejszymi pytaniami obecnych czasów, a zróżnicowana tematyka pozwala na wgląd w złożoną rzeczywistość.
+          <br><br>
+          <div class="my-4 font-bold hover:translate-x-2">
+              <a href="https://www.facebook.com/share/KrwqtyzHvnsuobbu/?mibextid=WC7FNe" target=”_blank”>Wydarzenie na Facebooku</a>
+            </div>
+          </div>
+        </div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
         <div>
           <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">23.05</span>
