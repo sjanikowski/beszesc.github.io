@@ -363,6 +363,40 @@
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
 
+        <div id="6na60_2">
+          <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
+            <span class="mx-2 duration-0">28.11</span>
+            <span class="font-bold italic duration-0">
+              6 na 60: Granice w nauce – czyli dokąd (nie) sięga rozum
+            </span>
+            <span class="inline-block ml-1 max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
+              <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
+                <path class="duration-0" id="Polygon_1" data-name="Polygon 1" d="M9.331.6a1,1,0,0,1,1.338,0l7.394,6.655A1,1,0,0,1,17.394,9H2.606a1,1,0,0,1-.669-1.743Z" transform="translate(20 9) rotate(180)"/>
+              </svg>
+            </span>
+          </div>
+        </div>
+        <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
+          <div class="w-1/4 float-left text-right px-5 font-bold">20:00<br>Politechnika Krakowska</div>
+          <div class="w-3/4 float-right text-left px-5">Zapraszamy na spotkanie z prof. Krzysztofem Meissnerem, związanym z Uniwersytetem Warszawskim wybitnym fizykiem teoretykiem oraz popularyzatorem nauki, specjalizującym się w teorii cząstek elementarnych oraz kosmologii, współpracownikiem noblisty Rogera Penrose’a, z którym współpracował nad konforemną kosmologią cykliczną.
+            <br><br>Spotkanie pt. <a href="https://fb.me/e/2ozKKBpnU" target=”_blank”><b>„Granice w nauce – czyli dokąd (nie) sięga rozum”</b></a> odbędzie się w czwartek, 28 listopada, o godzinie 20:00 na Politechnice Krakowskiej, w sali nr 11 budynku W-2, przy ul. Warszawskiej 24.
+            <br><br>Żyjemy w czasach bezprecedensowego sukcesu nauki. Jednocześnie silne pozostają grupy, które kwestionują jej ustalenia. W ramach tego spotkania zapraszamy do rozmowy o tym, jak działa współczesna nauka, czego jeszcze możemy od niej oczekiwać i jakie, jeśli w ogóle, są granice ludzkiego poznania.
+            <br><br>Poruszymy między innymi poniższe tematy: 	
+            <br>·         Jak daleko pozwalają dojść rozważania czysto teoretyczne, a dokąd aparat doświadczalny?
+            <br>·         O jakich tematach nauka nie może się wypowiedzieć?
+            <br>·         Jakie znaczenie ma kwestionowanie konsensu w nauce?
+            <br>·         Jak postawa naukowego sceptycyzmu wpływa na filozoficzne poglądy naukowców? Czy nauka i filozofia to dziedziny od siebie niezależne?
+            <br>·         Czy pytania o istnienie pozamaterialnej rzeczywistości wpływają na pracę naukowców?
+            <br>·         W jaki sposób kultura, filozofia lub religia mogą być inspiracją dla naukowców?
+            <br><br>Spotkanie jest drugim z serii sześciu spotkań „6 na 60”, odbywających się przez cały rok akademicki 2024/2025 na krakowskich uczelniach. To rozmowy z wybitnymi osobami ze świata nauki i kultury dotyczące kwestii z dziedziny sztuki oraz nauk ścisłych, humanistycznych i społecznych. Tworzą one przestrzeń, gdzie różne dyscypliny mierzą się z aktualnymi wyzwaniami i najważniejszymi pytaniami obecnych czasów, a zróżnicowana tematyka pozwala na wgląd w złożoną rzeczywistość.
+            <br><br>
+          <div class="my-4 font-bold hover:translate-x-2">
+              <a href="https://fb.me/e/2ozKKBpnU" target=”_blank”>Wydarzenie na Facebooku</a>
+            </div>
+          </div>
+        </div>
+        <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
+
         <div>
           <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">23.05</span>
