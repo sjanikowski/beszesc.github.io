@@ -458,7 +458,7 @@
           <div class="collapsible inline-block cursor-pointer text-[14px] sm:text-[25px] font-medium my-7 sm:my-14 duration-0 hover:text-[#0071FF]">
             <span class="mx-2 duration-0">24.05</span>
             <span class="font-['Chonburi'] duration-0">
-              Kiedyś to było
+              Beczka. Bierzemy odpowiedzialność
             </span>
             <span class="inline-block max-w-5 sm:max-w-5 h-[4px] sm:h-2 duration-0">
               <svg class="duration-0 max-w-2 sm:max-w-5 h-[4px] sm:h-2 relative top-[-0.1em]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 9">
@@ -475,10 +475,27 @@
           </div>
         </div>
         <div class="collapsible-content text-[10px] sm:text-[20px] font-medium text-[#0071FF]">
-          <div class="w-1/4 float-left text-right px-5 font-bold">Multikino Kraków</div>
-          <div class="w-3/4 float-right text-left px-5">Zapraszamy na premierowy pokaz filmu dokumentalnego o DDA <i>Beczka</i>, nakręconego przez Błażeja Hadro, który odbędzie się w krakowskim Multikinie. 
-            <br>Liczne rozmowy, odkryte fakty i archiwalne zdjęcia zostały zamknięte w jednym, niezwykłym filmie. 
-            <br>Wydarzenie jest biletowane. O możliwości nabycia biletów i godzinie seansu będziemy informować w naszych mediach społecznościowych oraz w newsletterze.
+          <div class="w-1/4 float-left text-right px-5 font-bold">18:00<br>Multikino Kraków</div>
+          <div class="w-3/4 float-right text-left px-5">
+            <span>
+              Film „Beczka. Bierzemy odpowiedzialność” to świadectwo życia Beczkowiczów na
+              przestrzeni ostatnich 60 lat. To historia ściśle związana z wydarzeniami polityczno-społecznymi w Polsce i na świecie,
+              zaangażowaniem młodych ludzi na przestrzeni dekad na rzecz Kościoła i kraju, a przede wszystkim z odkrywaniem wiary w
+              duchu charyzmatu św. Dominika. Film został stworzony przez samych Beczkowiczów z wykorzystaniem profesjonalnego sprzętu.
+              <br><br>
+              Premiera filmu „Beczka. Bierzemy odpowiedzialność” odbędzie się 24 maja (sobota) o godz. 18:00 w Multikinie w Krakowie
+              (ul. Dobrego Pasterza 128). Gorąco zachęcamy do zakupu biletów poprzez
+              <a href="https://forms.gle/Byo74Edi3DUu68Xb6" target=”_blank”><b>formularz</b></a>
+              oraz do <a href="https://wspieramdabeczka.dominikanie.pl/" target=”_blank”><b>wsparcia finansowego produkcji filmu</b></a>.
+              Koszty związane z produkcją kinową są bardzo wysokie (wypożyczenie sprzętu, koszty dojazdu na nagrania,
+              zakupu materiałów archiwalnych), stąd tym bardziej prosimy o Państwa hojność!
+            </span>
+            <div class="mt-8 mb-4 font-bold hover:translate-x-2">
+              <a href="https://forms.gle/Byo74Edi3DUu68Xb6" target=”_blank”>Formularz z zapisami</a>
+            </div>
+            <div class="my-4 font-bold hover:translate-x-2">
+              <a href="https://drive.google.com/file/d/1Os604Ge202CZ2zTx6TrhxDJf21QSQseA/view?usp=drivesdk" target=”_blank”>Regulamin Premiery</a>
+            </div>
           </div>
         </div>
         <div class="border-black border-b h-0.5 w-full 2xl:w-[150%] 2xl:translate-x-[-16.6%] min-[1900px]:w-[200%] min-[1900px]:translate-x-[-25%]"></div>
